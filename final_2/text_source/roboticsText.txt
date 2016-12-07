@@ -1,0 +1,149 @@
+﻿{{TopicTOC-Robotics}}
+[[Robotics]] is the branch of [[technology]] that deals with the design, construction, operation, structural disposition, manufacture and application of [[robot]]s.<ref name=OED>{{cite web|title=robotics|url=http://www.oxforddictionaries.com/view/entry/m_en_gb0714530#m_en_gb0714530|publisher=Oxford Dictionaries|accessdate=4 February 2011}}</ref> Robotics is related to the [[science]]s of [[electronics]],  [[engineering]], [[mechanics]], and [[computer software|software]].<ref>{{cite web 
+  |url=http://content.monster.com/articles/3472/18567/1/industry/12/home.aspx 
+  |title=Industry Spotlight: Robotics from Monster Career Advice 
+}}</ref>
+
+The following is a list of common definitions related to the [[Robotics]] field.
+
+[[File:IED detonator.jpg|thumb|right|A [[U.S. Marine Corps]] technician prepares to deploy a device that will detonate a buried [[improvised explosive device]] near [[Camp Fallujah]], [[Iraq]]]]
+
+{{compact ToC|side=yes|center=yes|nobreak=yes|seealso=yes|refs=yes|extlinks=yes}}
+__NOTOC__
+
+== A ==
+*[[Actuator]], a [[Engine|motor]] that translates control signals into mechanical movement. The control signals are usually electrical but may, more rarely, be pneumatic or hydraulic. The power supply may likewise be any of these. It is common for electrical control to be used to modulate a high-power pneumatic or hydraulic motor.<ref name=ang>{{cite book|author=Joseph A. Angelo|title=Robotics: a reference guide to the new technology|url=https://books.google.com/books?id=73kNFV4sDx8C&pg=PA258 |accessdate=28 January 2011|year=2007|publisher=Libraries Unlimited|isbn=978-1-57356-337-6|pages=258–327}}</ref><ref name=osh>{{cite web|url=https://www.osha.gov/dts/osta/otm/otm_iv/otm_iv_4.html#app_iv:4_1|title=OSHA Technical Manual - SECTION IV: CHAPTER 4 - INDUSTRIAL ROBOTS AND ROBOT SYSTEM SAFETY|publisher=Occupational Safety and Health Administration|accessdate=2011-01-28}}</ref>
+*[[Aerobot]] a robot capable of independent flight on other planets. A type of aerial robot.
+*[[Arduino]] The current platform of choice for small-scale robotic experimentation and [[physical computing]].
+*[[Artificial intelligence]] is the intelligence of machines and the branch of computer science that aims to create it.
+*[[Aura (satellite)]] a robotic spacecraft launched by [[NASA]] in 2004 which collects atmospheric data from Earth.<ref name=ang/>
+*[[Automaton]], an early self-operating robot, performing exactly the same actions, over and over.
+*[[Autonomous vehicle]] a vehicle equipped with an autopilot system, which is capable of driving from one point to another without input from a human operator.
+
+==B==
+*[[Biomimetic]]. See Bionics.
+*[[Bionics]]: also known as biomimetics, biognosis, biomimicry, or bionical creativity engineering is the application of biological methods and systems found in nature to the study and design of engineering systems and modern technology.
+
+==C==
+*CAD/CAM ([[computer-aided design]] and [[computer-aided manufacturing]]). These systems and their data may be integrated into robotic operations.
+*[[Karel Čapek|Čapek, Karel]], [[Czechs|Czech]] author who coined the term '[[robot]]' in his 1921 play, [[R.U.R.|Rossum's Universal Robots]].
+*[[Chandra X-ray Observatory]] a robotic spacecraft launched by NASA in 1999 to collect astronomical data.<ref name=ang/>
+
+
+*[[Cloud robotics]], robots empowered with more capacity and intelligence from cloud.
+*[[Robot combat|Combat, robot]], a hobby or sport event where two or more robots fight in an arena to disable each other. This has developed from a hobby in the 1990s to several TV series worldwide.
+*[[Cruise missile]] a robot-controlled guided missile that carries an explosive payload.
+*[[Cyborg]] also known as a cybernetic organism, a being with both biological and artificial (e.g. electronic, mechanical or robotic) parts.
+
+==D==
+*[[Degrees of freedom (mechanics)|Degrees of freedom]] - the extent to which a robot can move itself; expressed in terms of [[Cartesian coordinates]] (x, y, and z) and angular movements ([[Yaw (rotation)|yaw]], [[Degrees of freedom (mechanics)|pitch]], and roll).<ref name=ang/>
+*[[Delta robot]] - a tripod linkage, used to construct fast-acting manipulators with a wide range of movement.
+*Drive Power - The energy source or sources for the robot actuators.<ref name=osh/>
+
+==E==
+*[[Emergent behaviour]], a complicated resultant behaviour that emerges from the repeated operation of simple underlying behaviours.
+* Envelope (Space), Maximum The volume of space encompassing the maximum designed movements of all robot parts including the end-effector, workpiece, and attachments.<ref name=osh/>
+* [[Explosive ordnance disposal robot]] A mobile robot designed to assess whether an object contains explosives; some carry detonators that can be deposited at the object and activated after the robot withdraws.<ref name=ang/>
+
+==F==
+*[[FIRST]]. or For Inspiration and Recognition of Science and Technology, is an organization founded by inventor Dean Kamen in 1989 in order to develop ways to inspire students in engineering and technology fields.
+*[[Forward chaining]] a process in which events or received data are considered by an entity to intelligently adapt its behavior.<ref name=ang/>
+
+==G==
+* [[Gynoid]] A humanoid robot designed to look like a human female.
+
+==H==
+
+*[[Haptic technology|Haptic]] tactile feedback technology using the operator's sense of touch. Also sometimes applied to robot [[#Manipulator|manipulator]]s with their own touch sensitivity.
+*[[Stewart platform|Hexapod]] (platform) A movable platform using six [[#Linear actuator|linear actuator]]s. Often used in [[flight simulator]]s and [[fairground ride]]s, they also have applications as a robotic manipulator.
+*[[Hexapod (robotics)|Hexapod]] (walker) A six-legged walking robot, using a simple [[Hexapoda|insect-like]] locomotion.
+*[[Human–computer interaction]].
+*[[Humanoid]] A robotic entity designed to resemble a human being in form, function, or both.
+*[[Hydraulics|{{visible anchor|Hydraulics}}]], the control of mechanical force and movement, generated by the application of liquid under pressure. ''c.f. [[#Pneumatics|pneumatics]].''
+
+==I==
+
+* [[Industrial robot|{{visible anchor|Industrial robot}}]] A reprogrammable, multifunctional manipulator designed to move material, parts, tools, or specialized devices through variable programmed motions for the performance of a variety of tasks.<ref name=osh/>
+* [[Insect robot]] A small robot designed to imitate insect behaviors rather than complex human behaviors.<ref name=ang/>
+
+==K==
+*[[Kalman filter]], a mathematical technique to estimate the value of a sensor measurement, from a series of intermittent and noisy values.
+*[[Robot kinematics|Kinematics]], the study of [[Motion (physics)|motion]], as applied to robots. This includes both the design of linkages to perform motion, their power, control and stability; also their planning, such as choosing a sequence of movements to achieve a broader task.
+*[[Klann linkage]], a simple linkage for [[#walking robot|walking robot]]s.
+
+==L==
+*[[Linear actuator]]{{anchor|Linear actuator}} A form of [[Engine|motor]] that generates a [[linear]] movement directly.
+
+==M==
+*[[Manipulator (device)|{{visible anchor|Manipulator}}]] or ''gripper''. A robotic 'hand'.
+*[[Mobile robot]] A self-propelled and self-contained robot that is capable of moving over a mechanically unconstrained course.<ref name=osh/>
+* Muting The deactivation of a presence-sensing safeguarding device during a portion of the robot cycle.<ref name=osh/>
+
+==P==
+*[[Parallel manipulator|{{visible anchor|Parallel manipulator}}]] an articulated robot or manipulator based on a number of kinematic chains, actuators and joints, in parallel. ''c.f. [[#Serial manipulator|serial manipulator]].''
+*Pendant Any portable control device that permits an operator to control the robot from within the restricted envelope (space) of the robot.<ref name=osh/>
+*[[Pneumatics|{{visible anchor|Pneumatics}}]], the control of mechanical force and movement, generated by the application of compressed gas. ''c.f. [[#Hydraulics|hydraulics]].''
+*[[Prosthetic]] robots are programmable manipulators or devices for missing human limbs.<ref name=osh/>
+
+==R==
+*[[Remote manipulator]]{{anchor|Remote manipulator}} A [[#Manipulator|manipulator]] under direct human control, often used for work with hazardous materials.
+*[[Robonaut]] a development project conducted by NASA to create humanoid robots capable of using space tools and working in similar environments to suited astronauts.
+
+==S==
+*[[Serial manipulator|{{visible anchor|Serial manipulator}}]] an articulated robot or manipulator with a ''single'' series kinematic chain of actuators. ''c.f. [[#Parallel manipulator|parallel manipulator]].''
+*[[Service robot]]s are machines that extend human capabilities.<ref name=osh/>
+*[[Servo motor|Servo]], a motor that moves to and maintains a set position under command, rather than continuously moving.
+*[[Servomechanism]] An automatic device that uses error-sensing negative feedback to correct the performance of a mechanism.
+*Single Point of Control The ability to operate the robot such that initiation or robot motion from one source of control is possible only from that source and cannot be overridden from another source.<ref name=osh/>
+* Slow Speed Control A mode of robot motion control where the velocity of the robot is limited to allow persons sufficient time either to withdraw the hazardous motion or stop the robot.<ref name=osh/>
+* Snake robot A robot component resembling a [[tentacle]] or [[Elephant#Trunk|elephant's trunk]], where many small [[#actuator|actuator]]s are used to allow continuous curved motion of a robot component, with many degrees of freedom. This is usually applied to [[snake-arm robot]]s, which use this as a flexible manipulator. A rarer application is the [[snakebot]], where the entire robot is mobile and snake-like, so as to gain access through narrow spaces.
+*[[Stepper motor]]
+*[[Stewart platform|{{visible anchor|Stewart platform}}]] A movable platform using six [[#Linear actuator|linear actuator]]s, hence also known as a [[#Hexapod|Hexapod]].
+*[[Subsumption architecture]] A robot architecture that uses a modular, [[bottom-up design]] beginning with the least complex behavioral tasks.
+*[[Robotic surgery|Surgical robot]], a [[#Remote manipulator|remote manipulator]] used for [[minimally invasive surgery|keyhole surgery]]
+*[[Swarm robotics]] involve large numbers of mostly simple physical robots. Their actions may seek to incorporate [[emergent behavior]] observed in social insects ([[swarm intelligence]]).
+*[[Synchro]]
+
+==T==
+* Teach Mode The control state that allows the generation and storage of positional data points effected by moving the robot arm through a path of intended motions.<ref name=osh/>
+*[[Three Laws of Robotics]], coined by the science fiction author [[Isaac Asimov]], one of the first serious considerations of the [[ethics]] and [[psychology|robopsychological]] aspects of robotics.
+* Tool Center Point (TCP) The origin of the tool coordinate system.<ref name=osh/>
+
+==U==
+* [[Uncanny valley]] A hypothesized zone in which humanoid robot behavior and appearance begin to approach that of actual humans, but are still missing vital elements, to the point that these mimicked actions or images cause revulsion.
+*[[Unimate]], the first off-the-shelf [[#Industrial robot|industrial robot]], of 1961.
+
+==W==
+*[[Waldo (short story)|Waldo]], a short story by [[Robert Heinlein]], that gave its name to a popular nickname for [[#Remote manipulator|remote manipulator]]s.
+*[[Walking robot]], a robot capable of [[Motion (physics)|locomotion]] by [[walking]]. Owing to the difficulties of balance, [[biped|two-legged walking]] robots have so far been rare and most walking robots have used insect-like multilegged walking gaits.
+
+==Z==
+
+*[[Zero Moment Point]]. Zero Moment Point is a concept related with dynamics and control of legged locomotion, e.g., for humanoid robots. It specifies the point with respect to which dynamic reaction force at the contact of the foot with the ground does not produce any moment, i.e. the point where total inertia force equals 0 (zero).
+*ZMP. See Zero Moment Point.
+
+== See also ==
+{{Portal|Robotics}}
+* [[Outline of robotics]]
+* [[Index of robotics articles]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Robotics}}
+Online [[Robotics]] [[glossary]] repositories:
+*[http://www.learnaboutrobots.com/glossary.htm Learn About Robots]
+*[http://www.robots.com/glossary.php Robot Glossary - Industrial Technology Defined]
+*[http://www.robotmatrix.org/RobotGlossary.htm Robomatrix Robotics Glossary]
+*[https://www-robotics.jpl.nasa.gov/glossary/index.cfm JPL Robotics Glossary]
+*[http://www.gorobotics.net/articles/miscellaneous/robotics-glossary GoRobotics Robotics Glossary]
+
+{{OSHA|article=OSHA Technical Manual - SECTION IV: CHAPTER 4 - INDUSTRIAL ROBOTS AND ROBOT SYSTEM SAFETY||url =https://www.osha.gov/dts/osta/otm/otm_iv/otm_iv_4.html#app_iv:4_1|accessdate=2011-01-28}}
+
+{{Robotics |state=uncollapsed}}
+
+{{DEFAULTSORT:Glossary Of Robotics}}
+[[Category:Glossaries of science|Robotics]]
+[[Category:Robotics|-Glossary]]
+[[Category:Wikipedia glossaries|Robotics]]

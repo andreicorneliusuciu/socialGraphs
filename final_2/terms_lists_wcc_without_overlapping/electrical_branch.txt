@@ -1,0 +1,246 @@
+aa
+ac power#active, reactive, and apparent power
+ac power#reactive power
+ac power#real power
+acb
+adjustment
+aeroelasticity#flutter
+alligator
+alloy
+american wire gauge
+amorphous silicon
+ampacity
+ampere hour
+amplitude#peak-to-peak amplitude
+anchor
+antenna gain
+ar
+arc flash
+array
+asymmetric digital subscriber line
+auxiliary power
+azimuth
+ballast
+bank
+beacon
+beam divergence
+belt
+bluetooth
+bond
+breaker
+breaking capacity
+bridging (networking)
+broadcast delay
+burden
+bushing
+cable
+cable tray
+calorie
+candlepower
+capacitor voltage transformer
+cb
+characteristic curve
+charge controller
+cherry picker
+chlorinated polyethylene
+circuit breaker
+circular mil
+code division multiple access
+cold
+compression
+conductivity
+continuity test
+copolymer
+corona
+corona discharge
+counter-electromotive force
+cover
+cross-linked polyethylene
+crystallinity
+crystallite
+cst
+ct
+current sensor
+current transformer
+data encryption standard
+data rate units#megabit per second
+db
+dbm
+dead time
+delivery traffic indication message
+delta
+demilitarized zone
+depth of discharge
+derating
+design load
+digital signal processing
+digital signal processor
+digital subscriber line
+dipole antenna
+direct-sequence spread spectrum
+disconnector
+discrimination
+distortion#harmonic distortion
+distributed generation
+distribution transformer
+domain name system
+door
+drawing
+dynamic dns
+elbow
+electric power research institute
+electrical safety testing
+ems
+emtp
+energy management system
+eprom
+ethernet over twisted pair
+ethylene
+eutectic system
+extrusion
+fat
+fault (power engineering)
+fixture
+flowerpot
+fluorescent lamp
+functional block diagram
+gel
+gm t platform
+grease
+greenwich mean time
+halogen lamp
+helical
+high voltage
+hooks
+horsepower
+hose
+hot stick
+hv
+hydrometer
+ied
+ieee 802.11b-1999
+ieee 802.11g-2003
+ieee 802.1x
+impulse
+incandescent light bulb
+institute of electrical and electronics engineers
+instrument transformer
+insulated-gate bipolar transistor
+insulator
+insulator (electricity)
+interruption
+intranet
+ip address#static ip
+isotropic radiator
+jacket
+jamming
+kilowatt hour
+lag
+lamp
+lead dioxide
+lead(ii) sulfate
+lead–acid battery#exploding batteries
+light fixture
+lightning
+limit switch
+liquid-crystal display
+long-term stability
+luminance
+lux
+mac address
+magnetic core#core loss
+measurement
+megohmmeter
+messenger
+methane
+micro-
+mil
+modbus
+mv
+mw
+nec
+nylon
+ohm&#39;s law
+parkway
+pc card
+pc_card
+personal area network
+pf
+phase angle
+photovoltaic system
+photovoltaics
+pilot plant
+plc
+point-to-point tunneling protocol
+polyethylene
+polymer concrete
+polyvinyl chloride
+port forwarding
+pot
+potential
+pothead
+power factor
+power inverter
+power-line communication
+ppp
+proxy server
+psi
+public_switched_telephone_network
+pull
+pv
+px
+recloser
+reel
+reference range
+reflector
+refracting telescope
+regulation
+revolutions per minute
+ripple
+rms
+root mean square
+sag
+sat (disambiguation)
+scada
+service drop
+single-phase electric power
+sleeve
+soap
+solar energy
+solar panel
+split-phase electric power
+spread spectrum
+stability
+static relay
+static var compensator
+switchgear
+tagline
+tap changer
+temper
+tension
+thermal expansion
+thermoplastic
+thermosetting polymer
+thin film
+three-phase
+throughput
+transformer types
+transmission system
+trickle charging
+twisted pair
+ul
+university of florida
+va
+vapor
+virtual private network
+virtual server
+voltage regulation
+voltage sag
+vrla battery#agm (absorbed glass mat)
+vt
+watt
+watt#kilowatt
+wi-fi
+wireless lan
+xmodem
+zero crossing

@@ -1,0 +1,49 @@
+Size of lists, from glossaries: 
+aerospace_list :  332
+mechanics_list :  335
+robotics_list :  116
+electronic_list :  753
+electrical_list :  1116
+computer_science_list :  422
+ALL = 3074
+
+Size of lists, after manual edition: 
+aerospace_list 314
+mechanics_list 314
+robotics_list 108
+electronic_list 753
+electrical_list 1116
+computer_science_list 422
+all:  3027
+
+Size of lists, after removing duplicates and update the folder 'lists_2': 
+aerospace_list 312
+mechanics_list 308
+robotics_list 96
+electronic_list 751
+electrical_list 1103
+computer_science_list 422
+all:  2992
+
+Sum of all lists before removing duplicates:  2185
+Size of lists, after downloading all pages' files: 
+aerospace_list 296
+mechanics_list 301
+robotics_list 88
+electronic_list 575
+electrical_list 537
+computer_science_list 388
+all_terms_list 1983
+
+2992-807 = 2185 - zgadza sie (przed sciaganiem razem z barcnhow bylo 2992, usunelismy z racji pustych stron 807, teraz jest 2185 z duplikatami, a bez 1983)
+
+Plikow jest 1333 i dorzucamy 664 z przekierowanych. Powinno byc 1997, a jest 1924
+
+Size of lists, after removing a few trash terms all pages' files: 
+aerospace_list 296
+mechanics_list 301
+robotics_list 88
+electronic_list 575
+electrical_list 535
+computer_science_list 387
+all_terms_list 1981

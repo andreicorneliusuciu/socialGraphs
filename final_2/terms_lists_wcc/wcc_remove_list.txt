@@ -1,0 +1,372 @@
+10k
+1a
+1b
+aac
+absorption
+academy of social sciences
+acar
+access
+access point
+account
+accuracy class
+adc
+aerial cable
+af
+afc
+afd
+afi
+agc
+aggregate
+aggregate data
+agm
+aic
+ais
+al
+alarm device
+alias
+allowance (engineering)
+am
+analog
+annealing
+ansi (disambiguation)
+arc
+armature
+armour
+arrester
+assembler
+atc
+atm
+atp
+autonomous system
+avc
+backbone
+battery
+beta
+blackout
+block
+blowing (album)
+body in white
+boomer
+break
+brownout
+browser
+buck
+bucket
+bug
+bulb
+bundle
+burd
+bw
+caidi
+caifi
+can
+cell relay
+channel
+character
+choke
+choker
+clamper
+client
+climber
+clipper
+clipping
+closed-circuit
+closing time
+co
+come-a-long
+command
+compliance
+compound
+conduct
+conductor
+conduit
+conference
+configuration
+connector
+constraint algorithm
+contact
+coordination
+corrected flow
+crest
+crowbar
+csa
+csp
+csv
+ctc
+cu
+cursor
+cut-out
+data entry
+dbi
+default
+des
+dft
+digital
+direct access
+directory
+dolly
+domain
+doping
+dos (disambiguation)
+down
+drift
+dropout
+duct
+dump
+edit
+editing
+elephant's trunk
+elongation
+encapsulation
+energized
+erase
+event
+fa
+fault indicator
+feeder
+fiddler crab
+filament
+fill
+filler
+flashover
+flip-flop
+flywheel effect
+fob
+folder
+foreground
+form
+fragment
+frp
+fud
+fulguration
+fuse
+gas-generator cycle
+gateway
+generator
+gf
+gin
+gis (disambiguation)
+glare
+gnd
+gopher
+grunt
+gut
+h2
+h20
+hang
+hardwire
+header
+help
+henry
+hid
+hjúki and bil
+hole
+hot
+hps
+hub
+iccp
+ieee 802.11a-1999
+index
+information server
+inheritance
+inhibitor
+input
+instantiation
+instruction
+insulation
+intermittency
+interstices
+iou
+isolation
+jack
+jit
+jumper
+justify
+kermit
+kestrel (rocket engine)
+key
+keyboard
+kilo
+kinematic determinacy
+kva
+kvar
+kw
+lan (disambiguation)
+ldd
+leakage
+legal liability
+lifetime
+liner
+list of amusement rides
+live
+load
+longitudinal study
+lube
+lumen
+lv
+lynx
+macro
+magnetic pole
+mailbox
+mailer
+maxwell
+mb
+medium
+menu
+mission
+monitor
+mov
+mro
+nema
+nesting
+nic
+nominal
+nps
+nucleus
+oa
+object-based_language
+ohl
+ole
+one shot
+open
+open platform
+open system
+oscillograph
+osha
+osi
+outage
+overload
+packet
+parallel
+parity
+pc
+pcb
+pcc
+pci
+pe
+peak
+ped
+pickup
+ping
+pitch
+platform
+polymorphism
+polyphase
+port
+portable
+positive
+pow (disambiguation)
+power exchange
+printer
+procedure
+process
+program
+programming
+propagation
+protocol
+pt
+puc
+pulling
+query
+quiescence
+quit
+raceway
+range
+rating
+rcd
+reactance
+read
+reading
+real-time
+receptivity
+recombination
+record type
+recovery
+regional transmission organization (north america)
+relative
+remote
+response
+response time
+retiming
+rf (disambiguation)
+rj45
+robert morris university
+rom
+room temperature#ambient versus room temperature
+rotary switch
+router
+rts
+run
+saida
+saifi
+scale
+scp
+scroll
+scs
+segment
+ser
+server
+session
+setting
+seu
+sfc
+shell
+silicone grease#dielectric grease
+sip
+soe
+solid state
+sonic
+sort
+span
+spark
+st
+starter
+stick
+stinger
+storage
+strand
+stranded costs
+substrate
+surfing
+surge arrester
+t101
+task
+tearing
+tentacle
+termination
+terminator
+tesla
+test
+test target
+tf
+thumper
+tie
+time out
+toggle
+tolerance
+topic
+tpi
+track gauge
+transco
+transience
+traveler
+treeing
+trimmer
+tw
+two-phase
+ud
+uhv
+ultrasound (disambiguation)
+ups
+urd
+use
+vac
+var
+variable
+virtual
+vision
+vms
+wan
+wpa
+wye
+ṛtú

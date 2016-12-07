@@ -1,0 +1,535 @@
+10k
+1a
+1b
+aa
+aac
+ac
+ac power#active, reactive, and apparent power
+ac power#reactive power
+ac power#real power
+academy of social sciences
+acar
+acb
+access point
+accuracy and precision
+accuracy class
+adjustment
+admittance
+aerial cable
+aeroelasticity#flutter
+afd
+afi
+agm
+aic
+ais
+al
+alarm device
+alligator
+alloy
+alternating current
+american wire gauge
+amorphous silicon
+ampacity
+ampere
+ampere hour
+amplitude#peak-to-peak amplitude
+anchor
+annealing
+anode
+ansi (disambiguation)
+antenna gain
+ar
+arc
+arc flash
+armour
+array
+arrester
+asymmetric digital subscriber line
+atc
+atp
+autotransformer
+auxiliary power
+azimuth
+ballast
+bandwidth
+bank
+battery
+beacon
+beam divergence
+belt
+biasing
+blackout
+blowing (album)
+bluetooth
+bond
+boomer
+breakdown voltage
+breaker
+breaking capacity
+bridging (networking)
+broadcast delay
+brownout
+buck
+bucket
+bulb
+bundle
+burd
+burden
+bus
+bushing
+cable
+cable tray
+caidi
+caifi
+calibration
+calorie
+can
+candlepower
+capacitance
+capacitor
+capacitor voltage transformer
+cathode
+cb
+characteristic curve
+charge controller
+cherry picker
+cherry picker
+chlorinated polyethylene
+choker
+circuit
+circuit breaker
+circular mil
+client
+climber
+closing time
+co
+coaxial cable
+coaxial cable
+code division multiple access
+cold
+come-a-long
+compound
+compression
+conduct
+conductivity
+conductor
+conduit
+connector
+continuity
+continuity test
+coordination
+copolymer
+copper loss
+corona
+corona discharge
+coulomb
+counter-electromotive force
+cover
+crest
+cross-linked polyethylene
+crystallinity
+crystallite
+csa
+csp
+cst
+csv
+ct
+ctc
+cu
+current
+current sensor
+current transformer
+cut-out
+cycle
+data encryption standard
+data rate units#megabit per second
+db
+dbi
+dbm
+dc
+dead time
+decibel
+delivery traffic indication message
+delta
+demilitarized zone
+depth of discharge
+derating
+des
+design load
+dft
+dielectric
+dielectric strength
+digital signal processing
+digital signal processor
+digital subscriber line
+digital subscriber line
+dipole antenna
+direct current
+direct-sequence spread spectrum
+disconnector
+discrimination
+distortion#harmonic distortion
+distributed generation
+distribution transformer
+dolly
+domain name system
+domain name system
+door
+drawing
+dropout
+duct
+dynamic dns
+dynamic host configuration protocol
+eddy current
+elbow
+electric power research institute
+electrical safety testing
+electricity
+electromagnetic induction
+electromotive force
+elongation
+ems
+emtp
+energy
+energy management system
+eprom
+ethernet over twisted pair
+ethylene
+eutectic system
+event
+extrusion
+fa
+farad
+fat
+fault (power engineering)
+fault indicator
+feeder
+fiddler crab
+fill
+filler
+fixture
+flashover
+flowerpot
+fluorescent lamp
+fob
+frequency
+frp
+fulguration
+full scale
+functional block diagram
+fuse
+gateway
+gel
+gf
+gin
+gis (disambiguation)
+glare
+global positioning system
+gm t platform
+gnd
+grease
+greenwich mean time
+ground
+ground and neutral
+grunt
+gut
+h2
+h20
+halogen lamp
+harmonic
+helical
+henry
+hertz
+hid
+high voltage
+high voltage
+hjúki and bil
+hooks
+horsepower
+hose
+hot
+hot stick
+hps
+hv
+hydrometer
+iccp
+ied
+ieee 802.11a-1999
+ieee 802.11b-1999
+ieee 802.11g-2003
+ieee 802.1x
+impedance
+impulse
+incandescent light bulb
+inductance
+inrush current
+institute of electrical and electronics engineers
+instrument transformer
+insulated-gate bipolar transistor
+insulation
+insulator
+insulator (electricity)
+international organization for standardization
+internet protocol suite
+interruption
+interstices
+intranet
+ion
+iou
+ip address
+ip address#static ip
+isolation
+isotropic radiator
+jacket
+jamming
+jit
+joule
+jumper
+kilo
+kilowatt hour
+kilowatt hour
+kilowatt hour
+kva
+kvar
+kw
+lag
+lamp
+lan (disambiguation)
+ldd
+lead
+lead dioxide
+lead(ii) sulfate
+lead–acid battery
+lead–acid battery#exploding batteries
+light
+light fixture
+light-emitting diode
+lightning
+limit switch
+line
+liner
+liquid-crystal display
+load
+long-term stability
+lube
+lumen
+luminance
+lux
+lv
+mac address
+magnetic core#core loss
+measurement
+megohmmeter
+messenger
+methane
+micro-
+mil
+modbus
+modem
+mov
+mro
+mv
+mw
+nec
+nema
+nic
+nickel–cadmium battery
+nominal
+nps
+nylon
+oa
+ohl
+ohm
+ohm&#39;s law
+oscillograph
+osha
+outage
+overload
+packet
+parkway
+pc card
+pc_card
+pcb
+pcc
+pci
+pe
+ped
+personal area network
+pf
+phase angle
+photovoltaic system
+photovoltaic system
+photovoltaics
+pickup
+pilot plant
+ping
+plc
+point-to-point tunneling protocol
+polarity
+polyethylene
+polymer concrete
+polyphase
+polyvinyl chloride
+polyvinyl chloride
+port
+port forwarding
+pot
+potential
+pothead
+pow (disambiguation)
+power
+power exchange
+power factor
+power factor
+power inverter
+power-line communication
+ppp
+protocol
+proxy server
+psi
+pt
+public_switched_telephone_network
+puc
+pull
+pulling
+pv
+px
+raceway
+ram
+range
+rating
+rcd
+reactance
+reading
+recloser
+reel
+reference range
+reference range
+reflector
+refracting telescope
+regional transmission organization (north america)
+regulation
+regulator
+relative permittivity#terminology
+relay
+relay
+resistance
+response time
+revolutions per minute
+ripple
+rj45
+rms
+robert morris university
+room temperature#ambient versus room temperature
+root mean square
+router
+rts
+sag
+saida
+saifi
+sat (disambiguation)
+scada
+schematic
+scp
+scs
+ser
+series and parallel circuits
+series and parallel circuits
+server
+service drop
+setting
+seu
+sfc
+short circuit
+si
+silicon
+silicone grease#dielectric grease
+single-phase electric power
+single-phase electric power
+skin effect
+sleeve
+soap
+soe
+solar cell
+solar cell
+solar energy
+solar panel
+solar panel
+span
+split-phase electric power
+spread spectrum
+st
+stability
+starter
+static relay
+static var compensator
+stick
+stinger
+strand
+stranded costs
+surge arrester
+switchgear
+t101
+tagline
+tap changer
+tap changer
+temper
+tension
+termination
+terminator
+tf
+thermal expansion
+thermoplastic
+thermosetting polymer
+thin film
+three-phase
+three-phase
+three-phase
+throughput
+thumper
+tie
+tpi
+transco
+transducer
+transformer
+transformer
+transformer types
+transience
+transmission system
+traveler
+treeing
+trickle charging
+tw
+twisted pair
+ud
+uhv
+ul
+ultimate tensile strength
+university of florida
+ups
+urd
+use
+va
+vac
+vapor
+var
+virtual private network
+virtual server
+volt
+voltage drop
+voltage regulation
+voltage sag
+vrla battery#agm (absorbed glass mat)
+vt
+wan
+watt
+watt#kilowatt
+wi-fi
+wire
+wireless lan
+wpa
+wye
+xmodem
+yield (engineering)
+zero crossing
+ṛtú

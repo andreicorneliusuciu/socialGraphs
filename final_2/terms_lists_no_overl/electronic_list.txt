@@ -1,0 +1,575 @@
+absorption
+ac
+ac power#apparent power
+ac power#reactive power
+active filter
+adc
+admittance
+af
+afc
+agc
+alkaline battery
+alpha
+alternating current
+alternator
+am
+american wire gauge
+ammeter
+ampere
+amplifier
+amplifier
+amplifier#classification of amplifier stages and systems
+amplitude
+analog
+analog television
+anode
+arc
+armature
+armstrong oscillator
+atom
+atomic number
+attenuation
+audio
+autotransformer
+avc
+average
+avionics
+band-pass filter
+band-stop filter
+band-stop filter
+bandwidth
+base
+battery
+battery (electricity)#wet cell
+baud
+beta
+bias
+biasing
+binary
+bipolar junction transistor
+bode plot
+breadboard
+breakdown voltage
+buffer
+buffer amplifier
+butterworth filter
+bw
+byte
+calibration
+calibration
+capacitance
+capacitance#stray capacitance
+capacitor
+carbon microphone
+cartesian coordinate system
+cartesian coordinate system
+cartesian coordinate system
+cartesian coordinate system#two dimensions
+cascode
+cathode
+cathode ray tube
+cell
+center frequency
+center tap
+ceramic capacitor
+charge
+charge carrier
+charge carrier
+chassis
+chassis ground
+chebyshev filter
+choke
+circuit
+circuit breaker
+circuit breaker
+clamper
+clapp oscillator
+clipper
+clipping
+clock
+closed-circuit
+coaxial cable
+coercivity
+coercivity
+collector
+color code
+colpitts oscillator
+common base
+common collector
+common collector
+common drain
+common drain
+common emitter
+common gate
+common source
+common-mode rejection ratio
+comparator
+complex_number
+compliance
+computer-aided design
+contact
+continuity
+copper loss
+core
+coulomb
+coupling
+covalent bond
+crocodile clip
+crossover distortion
+crowbar
+crt
+crystal
+current
+current divider
+current mirror
+cutoff
+cutoff frequency
+cycle
+darlington transistor
+dc
+dc bias
+decade
+decibel
+decoupling capacitor
+depletion and enhancement modes
+depletion region
+device
+diac
+dielectric
+dielectric strength
+differential amplifier
+differentiator
+diffusion
+digital
+diode
+diode bridge
+diode#junction diodes
+dip
+direct coupling
+direct current
+discharge
+dissipation
+distortion
+domain
+doping
+drift
+dry cell
+dual in-line package
+dual in-line package#single in-line
+dynamics
+eddy current
+efficiency
+electric charge
+electric charge
+electric field
+electric field#electrostatic fields
+electric_current#conventions
+electrical reactance#capacitive reactance
+electrical reactance#inductive_reactance
+electricity
+electricity meter
+electroluminescence
+electrolyte
+electrolytic capacitor
+electromagnet
+electromagnetic coil
+electromagnetic coil
+electromagnetic induction
+electromagnetic radiation
+electromagnetic spectrum
+electromagnetism
+electromotive force
+electron
+electron shell#valence shells
+electronic color code
+electronic component
+electrostatics
+emitter
+energized
+energy
+engineering notation
+farad
+feedback
+ferrite
+ferrite
+ferrite bead
+ferrous
+field-effect transistor
+filament
+filter
+flip-flop
+floating ground
+flux
+flux
+flywheel effect
+free electron model
+frequency
+frequency meter
+frequency multiplier
+frequency response
+frequency-division multiplexing
+full scale
+function generator
+fundamental frequency
+fuse
+gain (electronics)#voltage gain
+galvanic cell
+gamma ray
+gas
+geiger counter
+generator
+giga-
+ground
+ground and neutral
+gunn diode
+harmonic
+harmonic oscillator
+hartley oscillator
+henry
+hertz
+high fidelity
+high tension
+high-pass filter
+history of the transistor
+hole
+holography
+holography
+hybrid integrated circuit
+hysteresis
+impedance
+impedance matching
+in-phase and quadrature components
+incandescence
+inductance
+inductance
+inductance#coupled inductors and mutual inductance
+inductance#coupled inductors and mutual inductance
+inductor
+infrared
+inhibitor
+input impedance
+input impedance
+input impedance
+inrush current
+insulation
+integration
+integrator
+intermittency
+internal resistance
+ion
+ion
+ionization
+jack
+jfet
+joule
+junction
+kilowatt hour
+kilowatt hour
+kinetic energy
+lamp
+laser
+lc circuit
+lead
+lead–acid battery
+leakage
+lenz's law
+lifetime
+light
+light-emitting diode
+light-emitting diode
+limiter
+line regulation
+linear scale
+linearity
+live
+load
+load regulation
+logic
+loss
+loudspeaker
+low-pass filter
+magnetic core
+magnetic core
+magnetic field
+magnetic flux
+magnetic pole
+magnetic reluctance
+magnetism
+matching
+maxwell
+mercury battery
+metre
+microphone
+microphone#dynamic_microphone
+microwave
+mil
+miller theorem
+misfet
+modulation
+molecule
+mosfet
+multimeter
+multivibrator
+multivibrator
+multivibrator#bistable
+negative
+negative feedback
+negative feedback amplifier
+negative resistance
+neon lamp
+network
+neutral
+neutron
+nickel–cadmium battery
+node
+noise
+north pole
+norton's theorem
+nucleus
+ohm
+ohm's law
+ohmmeter
+one shot
+open-loop gain
+operational amplifier
+operational amplifier
+operational amplifier applications#inverting_amplifier
+operational_amplifier_applications#summing_amplifier
+optical fiber
+oscillation
+oscillation
+oscilloscope
+output
+output impedance
+output impedance
+overload
+parallel
+passivity (engineering)
+peak
+permeability
+phase
+phase (waves)#phase_difference
+phonograph
+phosphor
+photoconductivity
+photodetector
+photodiode
+photometer
+photon
+photoresistor
+pi
+plug
+polarity
+polarity (mutual inductance)
+polarization
+polarization density
+pole
+polygraph
+positive
+potentiometer
+potentiometer
+potentiometer#rheostat
+power
+power supply rejection ratio
+power_supply#overload_protection
+primary
+propagation
+proton
+pulse
+pulse wave
+p–n diode#forward bias
+p–n junction#reverse bias
+q
+quiescence
+radio
+radio astronomy
+radio broadcasting
+rc
+reactance
+real number
+receiver
+receptivity
+rechargeable battery
+recombination
+rectification
+rectifier
+rectifier#full-wave rectification
+reed relay
+regenerative circuit
+regulated power supply
+regulator
+relative
+relative permittivity#terminology
+relaxation oscillator
+relay
+remanence
+resistance
+resistor
+resonance
+rf (disambiguation)
+right triangle
+ripple (electrical)
+rise time
+rms
+rotary switch
+saturation current
+sawtooth wave
+scale
+schematic
+schmitt trigger
+schottky diode
+scientific notation
+secondary
+selectivity
+semiconductor
+series and parallel circuits
+seven-segment display
+shield
+short circuit
+shunt (electrical)
+signal
+signal-to-noise ratio
+silicon
+silicon controlled rectifier
+silicon dioxide
+silver
+silver mica capacitor
+silver mica capacitor
+simplex
+simulcast
+sine
+sine wave
+sine wave
+single-sideband modulation
+sink
+sintering
+sip
+skin effect
+slew rate
+snr
+software
+solar cell
+solder
+solder#hard solder
+soldering
+soldering iron
+solenoid
+solid state
+sonar
+sonic
+sound#longitudinal and transverse waves
+source
+south pole
+spark
+speaker
+spectrum
+spectrum analyzer
+speech synthesis
+square wave
+static
+static electricity
+stator
+stereophonic sound
+stopband
+subatomic particle
+substrate
+sunspot
+super high frequency
+superconductivity
+superposition theorem
+sweep generator
+switch
+switch#contact terminology
+switch#toggle_switch
+synchronization
+synchronization
+system
+tantalum capacitor
+tap
+technician
+telegraphy
+telemetry
+telephone
+telephone line
+telephony
+teleprinter
+television
+telex
+temperature coefficient
+temperature measurement
+tera
+terminal
+tesla
+test
+thermal runaway
+thermal stability
+thermistor
+thermocouple
+thermostat
+threshold
+threshold voltage
+thyristor
+thévenin's theorem
+time constant
+time-division multiplexing
+tolerance
+transconductance
+transducer
+transformer
+transformer#step-down_and_step-up_transformers
+transformer#step-down_and_step-up_transformers
+transistor
+transmission
+transmission line
+transmitter
+trauma trigger
+triac
+triangle wave
+trigger
+trimmer
+troubleshooting
+tunnel diode
+two-phase
+two-port network#h-parameters
+ultrasound (disambiguation)
+unijunction transistor
+vacuum tube
+variable capacitor
+varicap
+vector
+very high frequency
+very low frequency
+video
+videocassette recorder
+virtual ground
+voice coil
+volt
+volt-ampere
+volt-ampere
+voltage
+voltage divider
+voltage divider#loading_effect
+voltage drop
+voltage multiplier
+voltage regulator
+voltage source
+voltage-controlled oscillator
+voltmeter
+volume
+wattmeter
+wave
+wave soldering
+waveform
+waveguide
+wavelength
+weber
+wetting
+wheatstone bridge
+wien bridge oscillator
+wire
+wire gauge
+wire wrap
+wireless
+woofer
+work
+zener diode

@@ -1,0 +1,751 @@
+skin effect
+snap switch
+donor atoms
+circuit breaker
+amplifier
+resistance
+electromagnetic communication
+rl differentiator
+quiescent point
+lead-acid cell
+limiter
+sweep generator
+polarity
+volt-ampere
+voltaic cell
+geiger counter
+electricity
+vcr
+charge
+voltage multiplier
+giga
+scientific notation
+carbon microphone
+load resistance
+simulcast
+seven segment display
+electron
+moving coil loudspeaker
+photoresistor
+jack
+turns ratio
+ferrites
+zener diode
+dropping resistor
+cutoff frequency
+transmission
+current feedback
+colpitts oscillator
+equivalent resistance
+electric field
+thermocouple
+thevenin's theorem
+dip
+holography
+single in-line package
+crossover distortion
+solid state
+teletypewriter
+flux density
+conventional current flow
+vacuum tube
+collector characteristic curve
+video
+discrete component
+operational amplifier
+leakage
+thin film capacitor
+linear
+ripple frequency
+clock
+radio-frequency generator
+diac
+overload
+cell
+switch
+r-2r ladder
+dual in-line package
+radio communication
+ceramic capacitor
+roll-off rate
+hartley oscillator
+electric polarization
+negative charge
+sine wave
+nickel-cadmium cell
+thermal stability
+led
+depletion mode
+dead short
+magnetism
+chassis
+capacitor
+sine
+superconductor
+electroluminescence
+compliance
+current-limiting resistor
+ferrite-core inductor
+resonance
+sinusoidal
+summing amplifier
+avionics
+series resonance
+crystal-controlled oscillator
+integrator
+zeroing
+kilovolt-ampere
+volt
+thick film resistor
+emitter follower
+meter fsd current
+current divider
+metal oxide field effect transistor
+distributed capacitance
+schmitt trigger
+step-up transformer
+positive
+butterworth filter
+self biasing
+negative
+magnetic poles
+live
+awg
+regulated power supply
+self inductance
+shunt resistor
+solid conductor
+resistor
+relay
+reverse breakdown voltage
+mismatch
+protoboard
+ferrous
+magnetic circuit breaker
+electromotive force
+hole
+bypass capacitor
+barrier potential
+common-mode signals
+voltage divider
+gamma rays
+wideband amplifier
+insulating material
+work
+oscillator
+north pole
+igfet
+alkaline cell
+henry
+variable capacitor
+cad
+tap
+choke
+phosphor
+magnetic core
+electromagnetic spectrum
+mid-point bias
+filter
+sip
+photodiode
+rl integrator
+afc
+silver mica capacitor
+bistable multivibrator
+static reverse current
+filament
+kirchhoff&quot;s current law
+miller's theorem
+modulation
+series circuit
+dc offset
+metal film resistor
+snr
+enhancement-mode mosfet
+receptivity
+direct current
+wave
+parallel
+negative feedback
+voice synthesizer
+voltage amplifier
+recombination
+tuned circuit
+sync pulse
+fiber optics
+normal closed
+field effect transistor
+q
+induced voltage
+level detector
+ionized
+slew rate
+voltage divider biasing
+core
+schematic diagram
+triggering
+electron flow
+laminated core
+feedback
+differentiator
+free electrons
+meter
+distortion
+chassis ground
+magneto motive force
+bleeder current
+band-stop filter
+subassembly
+scale
+center frequency
+electromechanical transducer
+ic voltage regulator
+reluctance
+lamp
+active component
+wire wrapping
+time-domain analysis
+telephone line
+center tap
+junction
+common collector amplifier
+magnetic field
+high tension
+radio-frequency amplifier
+stop band
+decibel
+source follower
+frequency multiplier
+silver
+dielectric
+transmitter
+trimmer
+thick-film capacitor
+neutral atom
+tera
+neutron
+forward bias
+engineering notation
+super heterodyne receiver
+domain
+differential amplifier
+voltage regulator
+carbon resistor
+cascode amplifier
+magnetizing force
+frequency
+depletion region
+wavelength
+darlington pair
+collector
+free running multivibrator
+closed-loop gain
+network
+antenna, receiving
+virtual ground
+hybrid circuit
+apparent power
+watt-hour
+semiconductor
+rf
+vector
+rc
+photoconduction
+current
+voltage source
+integrated
+internal resistance
+telegraphy
+base
+dc load line
+byte
+electromagnetic induction
+common source amplifier
+spdt
+silicon
+active region
+high-pass filter
+circuit
+radio-frequency probe
+output power
+frequency response curve
+minority carriers
+reverse saturation current
+branch current
+pentavalent element
+primary
+rectangular wave
+coefficient of coupling
+common cathode display
+tunnel diode
+silicon controlled switch
+right angle triangle
+class a amplifier
+metal oxide resistor
+neon bulb
+system
+distributed inductance
+rectifier
+speed-up capacitor
+in phase
+complex numbers
+transistor
+rotary switch
+open loop mode
+pulse
+valence shell
+spectrum analyzer
+oscillate
+diffusion
+television
+polarized
+counter electromotive force
+feedback amplifier
+intermittent
+signal to noise ratio
+regulator
+electrostatic
+electric charge
+transducer
+amplitude
+light
+sintering
+hologram
+short circuit
+bridge rectifier
+slow acting relay
+spectrum
+class b amplifier
+winding
+ultrasonic
+flow soldering
+current mirror
+closed circuit
+ganged
+microphone
+load regulation
+mil
+real number
+ferrite
+admittance
+lie detector
+ripple voltage
+dual trace oscilloscope
+rl filter
+open loop gain
+kinetic energy
+full wave rectifier
+superposition theorem
+majority carriers
+insulated
+ac generator
+function generator
+chebyshev filter
+buffer
+coaxial cable
+molecule
+beta
+phase
+alpha
+common-mode rejection ratio
+silver solder
+voltage follower
+volume
+turn-on time
+capacitive reactance
+atomic number
+inductive reactance
+thin film detector
+quiescent
+ampere
+soldering iron
+supply voltage
+alternator
+eddy currents
+synchronous
+infrared
+reactance
+inductor
+solar cell
+threshold
+varactor diode
+breakdown voltage
+frequency-division multiplex
+ground
+covalent bond
+negative temperature coefficient
+acceptor atoms
+rheostat
+moving coil pick-up
+terminal
+trivalent element
+radio astronomy
+intrinsic material
+fundamental frequency
+continuity
+oscilloscope
+copper loss
+dc
+dissipation
+multivibrator
+synchronization
+impedance matching
+output impedance
+high fidelity
+secondary
+substrate
+flip flop
+crt
+waveguide
+decade
+wien-bridge oscillator
+frequency response
+inverting input
+normally open
+multi segmant display
+jfet
+sonar
+light-emitting diode
+voltage
+rms
+common base amplifier
+very low frequency
+subatomic
+relative
+arc
+solder
+analog
+coercive force
+one-shot
+wire
+autotransformer
+diode
+npn transistor
+step-down transformer
+break over voltage
+wetting
+tolerance
+gain bandwidth product
+schottky diode
+clipper
+dielectric constant
+ohm's law
+mosfet
+efficiency
+stranded conductor
+voice coil
+armature
+spark
+emitter
+reverse bias
+time constant
+tapered
+lenz's law
+offset null
+receiver
+threshold voltage
+maximum power transfer
+sink
+load
+common-anode display
+line regulation
+battery
+harmonic
+proton
+pole
+monostable multivibrator
+doping
+reed relay
+farad
+wattmeter
+bode plot
+common gate amplifier
+turn-off time
+ac power supply
+rms value
+average value
+damping
+pi
+two phase
+adc
+baud
+remanence
+kilowatt-hour
+gas
+band-pass filter
+storage time
+inductance
+non-inverting input
+flywheel effect
+ac/dc
+sound wave
+inhibit
+laser
+comparator
+armstrong oscillator
+resistive power
+resistive temperature detector
+horizontally polarized wave
+single throw switch
+weber
+unity gain frequency
+thermal runaway
+vector diagram
+telephone
+common drain amplifier
+telephony
+bias
+anode
+charge current
+magnetic coil
+lifetime
+electrolytic capacitor
+avc
+binary
+residual magnetism
+color code
+propagation
+inverting amplifier
+speaker
+series parallel network
+uncharged
+wet cell
+center tapped rectifier
+carbon-film resistor
+joule
+logic
+kilowatt-hour meter
+hysteresis
+ion
+voltage controlled oscillator
+photometer
+reactive power
+very high frequency
+woofer
+rectangular coordinates
+electromagnetism
+energized
+ohmmeter
+sawtooth wave
+to package
+single pole double throw
+single sideband
+contact
+triac
+half wave rectifier
+slide switch
+audio
+intrinsic stand-off ratio
+electro acoustic transducer
+floating ground
+antenna, transmitting
+ac coupling
+clamper
+silicon dioxide
+bandwidth
+insulation resistance
+thermometry
+mutual inductance
+mid-band gain
+electrolyte
+video amplifier
+power supply rejection ratio
+transformer
+generator
+load current
+cascaded amplifier
+slow-blow fuse
+source
+ferrite bead
+south pole
+ac voltage
+unijunction transistor
+rise time
+voltmeter
+sonic
+transconductance
+solenoid
+class c amplifier
+meter resistance
+degenerative feedback
+triangular wave
+ac load line
+loss
+shells or bands
+notch filter
+gunn diode
+dot convention
+signal
+impedance coupling
+flux
+base biasing
+variable resistor
+output
+single pole single throw
+linear scale
+current amplifier
+rc time constant
+clipping
+transmission line
+dry cell
+temperature coefficient of frequency
+stray capacitance
+low pass filter
+full scale deflection
+selectivity
+photo detector
+op-amp
+radio broadcast
+mercury cell
+wattage rating
+common emitter amplifier
+potentiometer
+thermal relay
+surge current
+lead
+matched impedance
+direct coupling
+magnetic leakage
+microwave
+complementary transistors
+waveform
+y axis
+magnetic flux
+bulk resistance
+super high frequency
+cathode ray tube
+h-parameters
+incandescence
+noise
+x axis
+power
+voltage rating
+multimeter
+impedance
+loading effect
+bw
+push&gt;push-pull amplifier
+simplex
+kirchhoff&quot;s voltage law
+out of phase
+bipolar junction transistor
+tantalum capacitor
+vertical mos
+plug
+complementary symmetry amplifier
+surface-barrier diode
+spst
+shield
+toroidal coil
+thermistor
+dc power supply
+regenerative feedback
+toggle switch
+software
+cutoff
+frequency-domain analysis
+stator
+thermostat
+frequency meter
+alternating current
+wire gauge
+maxwell
+rectification
+dielectric strength
+device
+troubleshooting
+input impedance
+thyristor
+astable multivibrator
+wheatstone bridge
+voltage gain
+left-hand-rule
+silicon transistor
+hertz
+capacitance
+time division multiplexing
+trigger
+center tapped transformer
+negative resistance
+energy
+constant current circuit
+resistor color code
+active filter
+cathode
+wireless
+negative ground
+neutral
+voltage feedback
+secondary cell
+cycle
+atom
+technician
+switching transistor
+silicon-controlled rectifier
+electrostatic field
+reverse current
+three phase supply
+z axis
+emitter feedback
+attenuate
+electromagnet
+dynamic
+moving coil microphone
+crystal
+norton's theorem
+overload protection
+soldering
+static
+ohm
+ac
+stereo sound
+af
+tesla
+negative ion
+am
+neutral wire
+phonograph
+intermediate frequency amplifier
+depletion-mode mosfet
+permeability
+delay time
+mica capacitor
+alligator clip
+calibration
+telemetry
+ammeter
+matching
+static electricity
+inductive circuit
+digital
+test
+node
+electromagnetic wave
+load impedance
+absorption
+photon
+knee voltage
+drift
+square wave
+soft magnetic material
+nucleus
+peak
+relaxation oscillator
+discharge
+wire wound resistor
+junction diode
+clapp oscillator
+coupling
+coulomb
+surface leakage current
+multiplier resistor
+non-linear scale
+agc
+telex
+fuse
+capacitor microphone
+voltage drop
+source impedance
+crowbar
+ohms per volt
+transformer coupling

@@ -1,0 +1,88 @@
+actuator
+aerobot
+arduino
+artificial intelligence
+aura (satellite)
+automaton
+biomimetics
+bionics
+cartesian coordinate system
+cloud robotics
+computer-aided design
+computer-aided manufacturing
+cruise missile
+cyborg
+degrees of freedom (mechanics)
+delta robot
+electronics
+elephant's trunk
+emergence
+emergence
+engine
+engineering
+ethics
+fembot
+first
+flight simulator
+forward chaining
+hexapod
+hexapod (robotics)
+humanoid
+human–computer interaction
+hydraulics
+improvised explosive device
+industrial robot
+iraq
+isaac asimov
+kalman filter
+kinematics
+klann linkage
+linear actuator
+linearity
+list of amusement rides
+manipulator
+manipulator (device)
+mechanics
+mobile robot
+mobile robot
+motion (physics)
+nasa
+outline of robotics
+parallel manipulator
+physical computing
+pitch
+pneumatics
+prosthesis
+remote manipulator
+robert a. heinlein
+robonaut
+robot
+robot combat
+robot kinematics
+robot-assisted surgery
+robotics
+science
+serial manipulator
+service robot
+servomechanism
+servomotor
+snake-arm robot
+snakebot
+software
+software
+stepper motor
+stewart platform
+subsumption architecture
+swarm intelligence
+swarm robotics
+synchro
+tentacle
+three laws of robotics
+top-down and bottom-up design
+uncanny valley
+unimate
+vehicular automation
+waldo (short story)
+walking
+yaw (rotation)
+zero moment point

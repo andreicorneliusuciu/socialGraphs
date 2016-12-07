@@ -1,0 +1,116 @@
+walking
+haptic technology|haptic
+parallel manipulator|{{visible anchor|parallel manipulator}}
+category:glossaries of science|robotics
+swarm robotics
+explosive ordnance disposal robot
+klann linkage
+arduino
+servomechanism
+humanoid
+aerobot
+improvised explosive device
+robert heinlein
+nasa
+snake-arm robot
+robonaut
+zero moment point
+tentacle
+cruise missile
+motion (physics)|locomotion
+#actuator|actuator
+physical computing
+aura (satellite)
+fairground ride
+servo motor|servo
+mobile robot
+serial manipulator|{{visible anchor|serial manipulator}}
+unimate
+category:wikipedia glossaries|robotics
+manipulator (device)|{{visible anchor|manipulator}}
+hexapod (robotics)|hexapod
+psychology|robopsychological
+emergent behavior
+electronics
+walking robot
+linear
+emergent behaviour
+uncanny valley
+gynoid
+robot kinematics|kinematics
+waldo (short story)|waldo
+computer-aided design
+#hexapod|hexapod
+kalman filter
+category:robotics|-glossary
+three laws of robotics
+#hydraulics|hydraulics
+stepper motor
+insect robot
+outline of robotics
+file:ied detonator.jpg|thumb|right|a [[u.s. marine corps
+automaton
+first
+pneumatics|{{visible anchor|pneumatics}}
+minimally invasive surgery|keyhole surgery
+robotics
+elephant#trunk|elephant's trunk
+#remote manipulator|remote manipulator
+#serial manipulator|serial manipulator
+degrees of freedom (mechanics)|pitch
+ethics
+stewart platform|hexapod
+iraq
+delta robot
+swarm intelligence
+#parallel manipulator|parallel manipulator
+#pneumatics|pneumatics
+snakebot
+actuator
+artificial intelligence
+stewart platform|{{visible anchor|stewart platform}}
+bionics
+cyborg
+prosthetic
+isaac asimov
+degrees of freedom (mechanics)|degrees of freedom
+hydraulics|{{visible anchor|hydraulics}}
+#walking robot|walking robot
+index of robotics articles
+forward chaining
+bottom-up design
+glossary
+science
+hexapoda|insect-like
+flight simulator
+robotic surgery|surgical robot
+biped|two-legged walking
+biomimetic
+engine|motor
+mechanics
+engineering
+human–computer interaction
+technology
+computer-aided manufacturing
+synchro
+karel čapek|čapek, karel
+autonomous vehicle
+computer software|software
+#linear actuator|linear actuator
+r.u.r.|rossum's universal robots
+#industrial robot|industrial robot
+czechs|czech
+remote manipulator
+linear actuator
+subsumption architecture
+industrial robot|{{visible anchor|industrial robot}}
+cartesian coordinates
+yaw (rotation)|yaw
+service robot
+robot
+camp fallujah
+motion (physics)|motion
+cloud robotics
+robot combat|combat, robot
+#manipulator|manipulator
+chandra x-ray observatory

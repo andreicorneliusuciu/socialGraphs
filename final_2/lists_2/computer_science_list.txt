@@ -1,0 +1,423 @@
+code
+rom
+on-line
+assembler
+toggle
+client/server
+query
+icons
+environment
+program
+data communications
+striping
+data entry
+string
+faq
+openwindows
+physical layer
+spool
+reel tape
+nesting
+object-oriented technology
+open system
+cable
+gui
+upload
+team
+error checking
+portable
+binary
+download
+batch processing
+kilobyte(k)
+port
+bold
+index
+multimedia
+access
+control character
+usenet
+microprocessor
+x window system
+screen editor
+method
+software tool
+enter key
+token ring
+mainframe
+minicomputer
+micro-computer
+address
+access time
+information superhighway
+modem setup
+plotter
+queue
+function key
+database management system
+laserdisc
+distributed
+main memory
+unix
+relational structure
+gateway
+instantiation
+communications program
+memory
+authorization
+sort
+ip
+autonomous system
+data processing
+laser printer
+netscape
+account
+graphic
+mb
+reverse engineering
+access control list
+prompt
+process
+chip
+topic
+collision
+login id
+kermit
+scheduling
+recovery
+inheritance
+mouse
+multiplexer
+re-engineering
+ping
+aggregate data
+write
+methodology
+parameter
+bug
+retiming
+lan
+reuse and reuseability
+distributed database
+data
+response
+workstation
+surfing
+documentation
+fiber optics
+object-oriented
+wordwrap
+ethernet
+carriage return <cr>
+help
+hypertext
+mission
+jpeg
+spreadsheet
+keyboard
+ieee
+vms
+monitor
+microcomputer
+platform
+window
+mail
+pixel
+crash
+fragment
+power pc
+break
+online service
+interrupt
+tape density
+remote access
+execute
+edit
+userid
+read/write
+root directory
+debug
+character set
+cyberspace
+connect time
+soft copy
+frequency
+freeware
+programmer
+ftp
+drag and drop
+network
+realtime
+quality
+internet
+dhcp
+off-line
+foreground
+telecommunication
+lan e-mail system
+distributed file system
+byte
+osi
+atm
+programming
+magnetic disk
+logoff
+iso
+router
+shareware
+username
+control key
+message
+open
+login or logon
+record type
+machine language
+cell relay
+hardwired
+shell
+communications line
+hub
+multimedia mail
+broadcast
+packet
+copy
+network layer
+object-based
+tree
+delete key
+interactive
+bridge
+ram
+argument
+smiley
+magnetic tape
+line printer
+dbms
+alias
+information hiding
+instance
+word processor
+terminal emulation
+handshaking
+channel
+atm forum
+printer
+buffer
+object
+application program
+ip address
+virus
+random access
+segment
+terminal server
+url
+lpr
+telecomputing
+dos
+dot-matrix printer
+tn3270
+text
+time series.
+session
+font
+menu
+application layer
+terminal
+sequential
+relational database
+folder
+cursor control
+line editor
+downtime
+compiler
+resource
+default
+terabyte
+distributed application
+vision
+instruction
+dump
+frame
+printout
+direct access
+dial-up
+computer
+analog
+batch query
+bitnet
+routing
+routine
+irc
+source code
+screen
+mailbox
+job
+windows
+key
+time out
+configuration
+hyperlink
+sparc
+data link layer
+browser
+load
+sun microsystems
+gopher
+header
+open platform
+conference
+quit
+tcp/ip
+form feed
+strategy
+pc
+basic
+x-term
+telnet
+e-mail server
+binary number
+encapsulation
+baseband
+hard disk
+cursor
+fud
+mainframe
+booting
+procedure
+layer
+hardware
+cobol
+ascii
+file format
+whois
+peripheral
+client-server interface
+authentication
+html
+document
+bitmapped terminal
+raid
+hang
+user
+aggregate
+nickname
+mosaic
+audit
+polymorphism
+task
+database
+macro
+hierarchical file structure
+client
+command
+user-friendly
+modem
+justify
+protocol
+sunos
+work space
+i/o
+bandwidth
+field
+character
+fortran
+record length
+input
+format
+read
+hierarchical file
+bit
+password
+server
+longitudinal study
+output
+parity
+www
+service (or service provider)
+ole
+concentrator
+bulletin board (bbs)
+multiuser
+sponge
+erase
+disk or diskette
+broadband
+microwave
+e-mail
+backspace
+bus topology
+hard copy
+public domain
+noise
+run
+presentation layer
+virtual terminal
+host
+post
+object code
+column
+file server
+http
+error message
+simulation
+session layer
+return key
+backup
+block
+software
+garbage
+dataset
+down
+dictionary file
+inbox
+sparcstation
+logical record
+utility
+module
+transfer
+hypermedia
+gif
+editor
+bits per second (bps)
+mailer
+medium
+listserv
+form
+information server
+transport layer
+volume
+link
+account name
+line
+operating system
+e-mail service
+record
+lynx
+display
+e-mail address
+groupware
+scanner
+drive
+postscript
+file
+wavelength
+archive
+isdn
+host computer
+application software
+storage
+virtual
+background processing
+application
+digital
+node
+backbone
+rectangular file
+sql
+variable
+remote
+algorithm
+cd-rom
+scroll
+directory
+cpu

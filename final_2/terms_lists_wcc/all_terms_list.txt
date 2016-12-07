@@ -1,0 +1,1544 @@
+aa
+absolute value
+ac
+ac power#active, reactive, and apparent power
+ac power#apparent power
+ac power#reactive power
+ac power#real power
+acb
+accelerated life testing
+acceleration
+accelerometer
+access control list
+access time
+accuracy and precision
+ackermann steering geometry
+acoustic droplet ejection
+action (physics)
+active filter
+actuator
+address
+adjustment
+admittance
+aeroacoustics
+aerobot
+aerobraking
+aerocapture
+aerodynamics
+aeroelasticity
+aeroelasticity#flutter
+aeronautics
+aerospace engineering
+aerospike engine
+aerostat
+aft-crossing trajectory
+agitator (device)
+aileron
+air compressor
+air conditioning
+air handler
+air preheater
+air-augmented rocket
+aircraft
+aircraft flight control system
+aircraft flight mechanics
+airflow
+airfoil
+airlock
+airship
+alcubierre drive
+algorithm
+alkaline battery
+alligator
+alloy
+alpha
+alternating current
+alternator
+american wire gauge
+ammeter
+amorphous silicon
+ampacity
+ampere
+ampere hour
+amplifier
+amplifier#classification of amplifier stages and systems
+amplitude
+amplitude#peak-to-peak amplitude
+analog television
+anchor
+angle of attack
+angular momentum
+angular velocity
+anode
+antenna gain
+antimatter rocket
+application
+application layer
+application software
+applied mechanics
+apsis
+ar
+arc flash
+archimedes' screw
+archive
+arcjet rocket
+arduino
+areal velocity
+argument
+armstrong oscillator
+array
+artificial intelligence
+ascii
+asme
+aspect ratio (aeronautics)
+asymmetric digital subscriber line
+atmosphere of earth
+atmospheric entry
+atom
+atomic number
+attenuation
+attitude control
+audio
+audit
+aura (satellite)
+authentication
+authorization
+automaton
+automaton clock
+automobile handling
+automobile layout#rear-wheel-drive layouts
+automotive engineering
+autotransformer
+auxiliary power
+average
+avionics
+axle
+azimuth
+backlash (engineering)
+backspace
+backup
+balancing machine
+ballast
+balloon (aeronautics)
+ballute
+band-pass filter
+band-stop filter
+bandwidth
+bank
+base
+baseband
+basic
+batch processing
+battery (electricity)#wet cell
+baud
+beacon
+beale number
+beam axle
+beam divergence
+beam-powered propulsion
+bearing pressure
+belt
+belt (mechanical)
+belt friction
+bending
+bernoulli's principle
+bi-elliptic transfer
+bias
+biasing
+big dumb booster
+binary
+binary number
+biomechatronics
+biomimetics
+bionics
+bipolar junction transistor
+bit
+bitnet
+bleed air
+bluetooth
+bode plot
+bogie
+boiler
+bond
+booster (rocketry)
+booting
+breadboard
+breakdown voltage
+breaker
+breaking capacity
+bridge
+bridging (networking)
+brittleness
+broadband
+broadcast delay
+broadcasting
+buckling
+buffer
+buffer amplifier
+buoyancy
+burden
+bus
+bus network
+bushing
+bushing (isolator)
+bussard ramjet
+butterworth filter
+byte
+cable
+cable tray
+calculator
+calculus
+calibration
+calorie
+canadarm
+canard (aeronautics)
+candlepower
+capacitance
+capacitance#stray capacitance
+capacitor
+capacitor voltage transformer
+capital punishment
+car
+carbon fiber reinforced polymer
+carbon microphone
+cartesian coordinate system
+cartesian coordinate system#two dimensions
+cascode
+cathode
+cathode ray tube
+cb
+cd-rom
+cell
+centennial challenges
+center frequency
+center of mass
+center of mass#center of gravity
+center of pressure (fluid mechanics)
+center tap
+central processing unit
+centrifugal compressor
+ceramic capacitor
+character encoding
+characteristic curve
+charge
+charge carrier
+charge controller
+chassis
+chassis ground
+chebyshev filter
+chemical kinetics
+cherry picker
+chip
+chlorinated polyethylene
+chord (aeronautics)
+circuit
+circuit breaker
+circular mil
+clapp oscillator
+classical mechanics
+clean room design
+client–server model
+clock
+cloud robotics
+clustered file system#distributed file systems
+clutch
+coaxial cable
+cobol
+code
+code division multiple access
+coercivity
+coil spring
+cold
+collaborative software
+collector
+collimated light
+collision
+color code
+colpitts oscillator
+column
+combustion
+common base
+common collector
+common drain
+common emitter
+common gate
+common source
+common-mode rejection ratio
+comparator
+compiler
+complex_number
+composite material
+compressibility
+compression
+compression ratio
+compressive strength
+computational fluid dynamics
+computer
+computer data storage#primary storage
+computer-aided design
+computer-aided industrial design
+computer-aided manufacturing
+computing
+concentrator
+conductivity
+conic section#conic parameters
+conservation of mass
+constant speed drive
+constant-velocity joint
+continuity
+continuity test
+continuum mechanics
+control character
+control engineering
+control key
+control theory
+copolymer
+copper loss
+copy
+core
+corona
+corona discharge
+corrosion
+coulomb
+counter-electromotive force
+coupling
+coupling#gear
+covalent bond
+cover
+crankshaft
+crash
+crew exploration vehicle
+critical mach number
+crocodile clip
+cross-linked polyethylene
+crossover distortion
+crt
+cruise missile
+crystal
+crystallinity
+crystallite
+cst
+ct
+current
+current divider
+current mirror
+current sensor
+current transformer
+cutoff
+cutoff frequency
+cybernetics
+cyberspace
+cyborg
+cycle
+darlington transistor
+data
+data encryption standard
+data link layer
+data processing
+data rate units#megabit per second
+data set
+data striping
+data transmission
+database
+db
+dbm
+dc
+dc bias
+de laval nozzle
+dead time
+debugging
+decade
+decibel
+decoupling capacitor
+deflection (engineering)
+deformation (engineering)
+degrees of freedom (mechanics)
+delamination
+delete key
+delivery traffic indication message
+delta
+delta robot
+delta wing
+delta-v
+delta-v budget
+demilitarized zone
+density
+depletion and enhancement modes
+depletion region
+depth of discharge
+derating
+derivative
+design
+design for manufacturability
+design load
+device
+diac
+diagram
+dial-up internet access
+dielectric
+dielectric strength
+diesel engine
+differential (mechanical device)
+differential amplifier
+differentiator
+diffusion
+digital signal processing
+digital signal processor
+digital subscriber line
+dimensionless quantity
+diode
+diode bridge
+diode#junction diodes
+dip
+dipole antenna
+direct coupling
+direct current
+direct-sequence spread spectrum
+discharge
+disconnector
+discrimination
+displacement (vector)
+display
+dissipation
+distortion
+distortion#harmonic distortion
+distributed computing#applications
+distributed database
+distributed generation
+distribution
+distribution transformer
+document
+documentation
+domain name system
+door
+dot matrix printing
+download
+downtime
+drag (physics)
+drag and drop
+drag coefficient
+drag equation
+drawing
+drifting (motorsport)
+drive
+drive shaft
+dry cell
+dual in-line package
+dual in-line package#single in-line
+dual mode propulsion rocket
+dynamic dns
+dynamic host configuration protocol
+dynamics
+dynamics (mechanics)
+dynamometer
+eddy current
+efficiency
+elasticity (physics)
+elbow
+electric charge
+electric field
+electric field#electrostatic fields
+electric motor
+electric power research institute
+electric_current#conventions
+electrical network
+electrical reactance#capacitive reactance
+electrical reactance#inductive_reactance
+electrical safety testing
+electricity
+electricity meter
+electroluminescence
+electrolyte
+electrolytic capacitor
+electromagnet
+electromagnetic coil
+electromagnetic induction
+electromagnetic radiation
+electromagnetic spectrum
+electromagnetism
+electromotive force
+electron
+electron shell#valence shells
+electronic circuit
+electronic color code
+electronic component
+electronics
+electrostatics
+elliptic partial differential equation
+email
+email address
+emergence
+emitter
+emphasis (typography)#methods and use
+employment
+ems
+emtp
+energy
+energy management system
+engine
+engineering cybernetics
+engineering drawing
+engineering economics
+engineering ethics
+engineering management
+engineering notation
+enstrophy
+enter key
+environment
+eprom
+equations of motion
+error detection and correction
+error message
+ethernet
+ethernet over twisted pair
+ethics
+ethylene
+euclidean vector
+euler angles
+european space agency
+eutectic system
+expander cycle
+exploratory engineering
+extrusion
+factor of safety
+false precision
+faq
+farad
+fast fracture
+fat
+fatigue (material)
+fault (power engineering)
+feedback
+fembot
+ferrite
+ferrite bead
+ferrous
+field
+field-effect transistor
+field-emission electric propulsion
+file
+file format
+file server
+file transfer protocol
+fillet (mechanics)
+filter
+finite element method
+first
+fixed-wing aircraft
+fixture
+flight control surfaces
+flight dynamics
+flight simulator
+floating ground
+floatstick
+flowerpot
+fluid
+fluid dynamics
+fluid mechanics
+fluorescent lamp
+flux
+flying wing
+flywheel
+font
+force
+force density
+forging
+format
+fortran
+forward chaining
+four-bar linkage
+four-stroke engine
+four-wheel drive
+frame
+free electron model
+free fall
+freeware
+frequency
+frequency meter
+frequency multiplier
+frequency response
+frequency-division multiplexing
+friction
+front-wheel drive
+full scale
+function generator
+function key
+functional block diagram
+fundamental frequency
+fused filament fabrication
+fusible plug
+gain (electronics)#voltage gain
+galvanic cell
+gamma ray
+gas
+gas compressor
+gauge (instrument)
+gear
+gear train
+geiger counter
+gel
+geostationary orbit
+geosynchronous orbit
+gif
+giga-
+gliding flight#glide ratio
+global positioning system
+gm t platform
+granular material
+graphics
+gravitational constant
+gravity
+gravity assist
+grease
+greenwich mean time
+gridded ion thruster
+ground
+ground and neutral
+gui
+gunn diode
+hall-effect thruster
+halogen lamp
+handshaking
+hard copy
+hard disk drive
+hardware
+harmonic
+harmonic oscillator
+hartley oscillator
+heat engine
+heat shield
+heat transfer
+helical
+helicopter
+helicopter flight controls
+hertz
+hexapod
+hexapod (robotics)
+high fidelity
+high tension
+high voltage
+high-pass filter
+hinge
+history of the transistor
+hohmann transfer orbit
+holography
+hooke's law
+hooks
+horsepower
+hose
+host
+host (network)
+hot stick
+hotchkiss drive
+html
+humanoid
+human–computer interaction
+hv
+hvac
+hybrid integrated circuit
+hybrid rocket
+hydraulics
+hydrometer
+hydrostatics
+hyperbolic partial differential equation
+hyperlink
+hypermedia
+hypersonic speed
+hypertext
+hypertext transfer protocol
+hysteresis
+ibm_3270#telnet_3270
+icon
+ideal machine
+ied
+ieee 802.11b-1999
+ieee 802.11g-2003
+ieee 802.1x
+impedance
+impedance matching
+improvised explosive device
+impulse
+in-phase and quadrature components
+incandescence
+incandescent light bulb
+inclined plane
+independent suspension
+indian space research organisation
+inductance
+inductance#coupled inductors and mutual inductance
+inductor
+industrial engineering
+industrial robot
+inertia
+information hiding
+information superhighway
+infrared
+input impedance
+inrush current
+institute of electrical and electronics engineers
+instrument landing system
+instrument transformer
+instrumentation
+insulated-gate bipolar transistor
+insulator
+insulator (electricity)
+integral
+integrated circuit
+integrated services digital network
+integration
+integrator
+interactivity
+internal combustion engine
+internal resistance
+international organization for standardization
+internet
+internet protocol suite
+internet relay chat
+interplanetary spaceflight
+interplanetary transport network
+interrupt
+interruption
+interstellar travel
+intranet
+invention
+ion
+ion thruster
+ionization
+ip
+ip address
+ip address#static ip
+iraq
+isotropic radiator
+jacket
+jamming
+jet engine
+jfet
+job
+joule
+jpeg
+junction
+kalman filter
+kelvin
+kepler's laws of planetary motion
+kessler syndrome
+kilowatt hour
+kinematics
+kinetic energy
+kite
+klann linkage
+kutta condition
+lag
+lagrangian mechanics
+lagrangian point
+lamp
+landing
+landing gear
+laser
+laser broom
+laser diode
+laser printing
+laser propulsion
+laserdisc
+launch window
+layer
+lc circuit
+lead
+lead dioxide
+lead(ii) sulfate
+leading edge
+lead–acid battery
+lead–acid battery#exploding batteries
+leaf spring
+lenz's law
+lever
+life-cycle assessment
+lift (force)
+lift coefficient
+light
+light fixture
+light-emitting diode
+lightcraft
+lighter than air
+lightning
+limit state design
+limit switch
+limiter
+line
+line editor
+line printer
+line printer daemon protocol
+line regulation
+line wrap and word wrap
+linear actuator
+linear scale
+linearity
+link
+linkage (mechanical)
+liquid air cycle engine
+liquid fuel
+liquid rocket propellant
+liquid-crystal display
+liquid-propellant rocket
+list of aviation, aerospace and aeronautical abbreviations
+list of engineering societies
+listserv
+lithobraking
+load regulation
+locomotive
+logic
+login
+loiter (aeronautics)
+long-term stability
+loss
+loudspeaker
+low earth orbit
+low-pass filter
+lubrication
+luminance
+lunar space elevator
+lux
+mac address
+mach number
+machine
+machine code
+machine learning
+magnetic circuit
+magnetic core
+magnetic core#core loss
+magnetic field
+magnetic flux
+magnetic reluctance
+magnetic sail
+magnetic sail#mini-magnetospheric plasma propulsion
+magnetic storage
+magnetic tape
+magnetism
+magnetoplasmadynamic thruster
+mail
+mainframe computer
+manipulator
+manipulator (device)
+mass
+mass driver
+mass transfer
+matching
+material selection
+materials science
+measurement
+mechanical advantage
+mechanical advantage#ideal mechanical advantage
+mechanical biological treatment
+mechanical efficiency
+mechanical equilibrium
+mechanics
+mechanochemistry
+mechanosynthesis
+mechatronics
+megohmmeter
+membrane mirror
+memory
+mercury battery
+message
+message transfer agent
+messenger
+methane
+method
+methodology
+metre
+metre per second
+micro-
+microcomputer
+microelectromechanical systems
+micromachinery
+microphone
+microphone#dynamic_microphone
+microprocessor
+microsoft windows
+microtechnology
+microwave
+microwave landing system
+mil
+miller theorem
+minicomputer
+misfet
+mobile robot
+modbus
+modem
+modularity
+modulation
+molecular assembler
+molecular nanotechnology
+molecule
+moment (physics)
+moment of inertia
+momentum
+momentum#conservation
+monopropellant rocket
+mosaic
+mosfet
+motion (physics)
+motorcycle
+mouse
+multi-link suspension
+multi-user
+multimedia
+multimeter
+multiplexer
+multistage rocket
+multivibrator
+multivibrator#bistable
+municipal solid waste
+mv
+mw
+nanotechnology
+nasa
+national council of examiners for engineering and surveying
+navier–stokes equations
+nec
+negative
+negative feedback
+negative feedback amplifier
+negative resistance
+neon lamp
+neptec design group
+netscape
+network
+network layer
+neutral
+neutron
+newton (unit)
+newton's law of universal gravitation
+newton's laws of motion
+nickel–cadmium battery
+nickname
+node
+noise
+north pole
+norton's theorem
+nose cone design
+nozzle
+numerical control
+nylon
+object
+object code
+object-oriented programming
+ohm
+ohm&#39;s law
+ohm's law
+ohmmeter
+online and offline
+online service provider
+open-loop gain
+openwindows
+operating system
+operational amplifier
+operational amplifier applications#inverting_amplifier
+operational_amplifier_applications#summing_amplifier
+optical fiber
+orbit
+orbit phasing
+orbital elements
+orbital inclination change
+orbital maneuver
+orbital mechanics
+orbital node
+orbital period
+orbital station-keeping
+oscillation
+oscilloscope
+osculating orbit
+outline of space technology
+output
+output impedance
+overdrive (mechanics)
+page break#form feed
+parallel axis theorem
+parallel manipulator
+parameter
+parasitic drag
+parkway
+pascal (unit)
+passivity (engineering)
+password
+pc card
+pc_card
+peripheral
+permeability
+perpendicular axis theorem
+personal area network
+pf
+phase
+phase (waves)#phase_difference
+phase angle
+phonograph
+phosphor
+photoconductivity
+photodetector
+photodiode
+photometer
+photon
+photoresistor
+photovoltaic system
+photovoltaics
+physical computing
+physical layer
+physics
+pi
+pilot plant
+pinion
+piston
+pitch drop experiment
+pixel
+plasma (physics)
+plasma processing
+plc
+plotter
+plug
+plug nozzle
+pneumatics
+pogo oscillation
+point-to-point tunneling protocol
+poisson's ratio
+polarity
+polarity (mutual inductance)
+polarization
+polarization density
+pole
+polyethylene
+polygraph
+polymer concrete
+polyvinyl chloride
+port forwarding
+position (vector)
+post
+postscript
+pot
+potential
+potentiometer
+potentiometer#rheostat
+pothead
+power
+power (physics)
+power factor
+power inverter
+power supply rejection ratio
+power-line communication
+power_supply#overload_protection
+powerpc
+ppp
+precession
+presentation layer
+pressure
+pressure altitude
+pressure-fed engine
+primary
+process control
+product lifecycle
+programmer
+programming tool
+project management
+prompt
+propeller (aeronautics)
+proper orbital elements
+propulsion
+prosthesis
+proton
+proxy server
+psi
+public domain
+public_switched_telephone_network
+pull
+pulley
+pulse
+pulse wave
+pulsed inductive thruster
+pulsed plasma thruster
+pump
+pv
+px
+p–n diode#forward bias
+p–n junction#reverse bias
+q
+quality
+quality (business)
+quality assurance
+quality control
+queue
+rack and pinion
+rack railway
+radar
+radio
+radio astronomy
+radio broadcasting
+raid
+railcar
+railgun
+railroad car
+railroad switch
+ram
+ram accelerator
+ramjet
+random access
+rc
+reaction control system
+reaction wheel
+real number
+receiver
+rechargeable battery
+recloser
+record
+rectification
+rectifier
+rectifier#full-wave rectification
+redshift rocket
+reed relay
+reel
+reengineering
+reference range
+reflection (physics)
+reflector
+refracting telescope
+refrigeration
+regenerative circuit
+regulated power supply
+regulation
+regulation and licensure in engineering
+regulator
+relational database
+relative permittivity#terminology
+relativistic rocket
+relaxation oscillator
+relay
+reliability engineering
+relief valve
+remanence
+remote access
+remote manipulator
+resistance
+resistojet rocket
+resistor
+resonance
+resource
+reusable launch system
+reverse engineering
+revolutions per minute
+reynolds number
+rheology
+right triangle
+rigid body
+ripple
+ripple (electrical)
+rise time
+rms
+robert a. heinlein
+robonaut
+robot
+robot combat
+robot kinematics
+robot-assisted surgery
+robotics
+rocket
+rocket engine nozzle
+rocket launch
+rocket propellant
+rogallo wing
+roller chain
+rolling
+root directory
+root mean square
+rotordynamics
+routine
+routing
+rudder
+safety engineering
+sag
+sat (disambiguation)
+satellite
+saturation current
+saturn (rocket family)
+sawtooth wave
+scada
+scalar (physics)
+scanner
+schedule
+schematic
+schlieren
+schlieren photography
+schmitt trigger
+schottky diode
+science
+scientific notation
+scramjet
+screen
+screw theory
+seal (mechanical)
+second moment of area
+secondary
+selectivity
+semiconductor
+sequence
+serial manipulator
+series and parallel circuits
+service drop
+service robot
+servomechanism
+servomotor
+session layer
+seven-segment display
+shareware
+shear force
+shear modulus
+shear pin
+shear strength
+shear stress
+shield
+shock wave
+short circuit
+shunt (electrical)
+si
+signal
+signal-to-noise ratio
+silicon
+silicon controlled rectifier
+silicon dioxide
+silver
+silver mica capacitor
+simple machine
+simplex
+simulation
+simulcast
+sine
+sine wave
+single-phase electric power
+single-sideband modulation
+single-stage-to-orbit
+sink
+sintering
+skin effect
+skyhook (structure)
+sleeve
+slew rate
+slide rule
+smiley
+snake-arm robot
+snakebot
+snr
+soap
+soft copy
+software
+solar cell
+solar energy
+solar panel
+solar sail
+solar thermal rocket
+solder
+solder#hard solder
+soldering
+soldering iron
+solenoid
+solid mechanics
+solid modeling
+solid of revolution
+solid-fuel rocket
+sonar
+sound barrier
+sound#longitudinal and transverse waves
+source
+source code
+south pole
+space activity suit
+space elevator
+space fountain
+space shuttle
+space shuttle external tank
+space shuttle main engine
+space shuttle thermal protection system
+space station
+space suit
+space tether
+spacecraft
+spacecraft design
+spacecraft propulsion
+spaceflight
+spaceplane
+sparc
+sparcstation
+speaker
+special relativity
+specific impulse
+spectrum
+spectrum analyzer
+speech synthesis
+speed of sound
+split pin
+split-phase electric power
+sponge
+spool
+spread spectrum
+spreadsheet
+sprung mass
+sql
+square wave
+stability
+staged combustion cycle
+static
+static electricity
+static relay
+static var compensator
+statics
+stator
+steam
+steering
+stepper motor
+stereophonic sound
+stewart platform
+stopband
+strategy
+stream function
+streamline
+stress (mechanics)
+stress (mechanics)#normal and shear stress
+stress–strain curve
+string
+stroke (engine)
+structural integrity and failure
+structure (mathematical logic)
+student design competition
+subatomic particle
+subsonic
+subsumption architecture
+sun microsystems
+sunos
+sunspot
+super high frequency
+superconductivity
+superposition theorem
+supersonic speed
+surface of revolution
+surveying
+suspension (vehicle)
+swarm intelligence
+swarm robotics
+sweep generator
+swept wing#sweep theory
+switch
+switch#contact terminology
+switch#toggle_switch
+switchgear
+synchro
+synchronization
+system
+tagline
+tantalum capacitor
+tap
+tap changer
+team
+technical drawing
+technical drawing#assembly drawings
+technician
+technology
+telecommunication
+telegraphy
+telemetry
+telephone
+telephone line
+telephony
+teleprinter
+television
+telex
+telnet
+temper
+temperature
+temperature coefficient
+temperature measurement
+tension
+tera
+terabyte
+terminal
+terminal emulator
+terminal server
+terminal velocity
+testing, adjusting, balancing
+text
+thermal expansion
+thermal expansion#coefficient of thermal expansion
+thermal runaway
+thermal stability
+thermistor
+thermocouple
+thermodynamics
+thermoplastic
+thermosetting polymer
+thermostat
+thin film
+three laws of robotics
+three-phase
+threshold
+threshold voltage
+throughput
+thrust
+thruster
+thyristor
+thévenin's theorem
+time constant
+time-division multiplexing
+tire manufacturing
+toe (automotive)
+token ring
+top-down and bottom-up design
+torque
+torricelli's equation
+torsion spring
+touchscreen
+toughness
+track (rail transport)
+trailing edge
+trajectory
+trans-lunar injection
+transconductance
+transducer
+transfer
+transformer
+transformer types
+transformer#step-down_and_step-up_transformers
+transistor
+transmission
+transmission (mechanics)
+transmission line
+transmission system
+transmitter
+transonic
+transport layer
+transverse wave
+trauma trigger
+tree
+triac
+triangle wave
+tribology
+trickle charging
+trigger
+tripropellant rocket
+troubleshooting
+truck
+tsiolkovsky rocket equation
+tunnel diode
+turbine
+turbomachinery
+twist-beam rear suspension
+twisted pair
+two-port network#h-parameters
+two-stage-to-orbit
+ul
+ultimate tensile strength
+uncanny valley
+understeer and oversteer
+unidentified flying object
+uniform resource locator
+unijunction transistor
+unimate
+university of florida
+unix
+unsprung_mass
+upload
+usability
+usenet
+user
+user (computing)
+user identifier
+utility
+v-2 rocket
+va
+vacuum tube
+valve
+vapor
+variable capacitor
+variable specific impulse magnetoplasma rocket
+varicap
+vector
+vehicle frame#unibody
+vehicular automation
+velocity
+verification and validation
+very high frequency
+very low frequency
+vibration
+video
+videocassette recorder
+virtual ground
+virtual private network
+virtual server
+virtual terminal
+virus
+viscometer
+viscosity
+voice coil
+volt
+volt-ampere
+voltage
+voltage divider
+voltage divider#loading_effect
+voltage drop
+voltage multiplier
+voltage regulation
+voltage regulator
+voltage sag
+voltage source
+voltage-controlled oscillator
+voltmeter
+volume
+vortex generator
+vrla battery#agm (absorbed glass mat)
+vt
+waldo (short story)
+walking
+watt
+watt#kilowatt
+wattmeter
+wave
+wave drag
+wave soldering
+waveform
+waveguide
+wavelength
+wear
+weber
+wedge (mechanical device)
+weight
+weight function
+weight transfer
+wetting
+wheatstone bridge
+wheel
+wheel and axle
+wheelset (rail transport)
+whois
+wi-fi
+wien bridge oscillator
+wind tunnel
+window
+wing
+wire
+wire gauge
+wire wrap
+wireless
+wireless lan
+woodward effect
+woofer
+word processor
+work
+work (physics)
+workstation
+world wide web
+wright flyer
+writing
+x terminal
+x window system
+xmodem
+yaw (rotation)
+yield (engineering)
+young's modulus
+zener diode
+zero crossing
+zero defects
+zero moment point
+zeroth law of thermodynamics

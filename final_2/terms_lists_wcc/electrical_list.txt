@@ -1,0 +1,324 @@
+aa
+ac
+ac power#active, reactive, and apparent power
+ac power#reactive power
+ac power#real power
+acb
+accuracy and precision
+adjustment
+admittance
+aeroelasticity#flutter
+alligator
+alloy
+alternating current
+american wire gauge
+amorphous silicon
+ampacity
+ampere
+ampere hour
+amplitude#peak-to-peak amplitude
+anchor
+anode
+antenna gain
+ar
+arc flash
+array
+asymmetric digital subscriber line
+autotransformer
+auxiliary power
+azimuth
+ballast
+bandwidth
+bank
+beacon
+beam divergence
+belt
+biasing
+bluetooth
+bond
+breakdown voltage
+breaker
+breaking capacity
+bridging (networking)
+broadcast delay
+burden
+bus
+bushing
+cable
+cable tray
+calibration
+calorie
+candlepower
+capacitance
+capacitor
+capacitor voltage transformer
+cathode
+cb
+characteristic curve
+charge controller
+cherry picker
+chlorinated polyethylene
+circuit
+circuit breaker
+circular mil
+coaxial cable
+code division multiple access
+cold
+compression
+conductivity
+continuity
+continuity test
+copolymer
+copper loss
+corona
+corona discharge
+coulomb
+counter-electromotive force
+cover
+cross-linked polyethylene
+crystallinity
+crystallite
+cst
+ct
+current
+current sensor
+current transformer
+cycle
+data encryption standard
+data rate units#megabit per second
+db
+dbm
+dc
+dead time
+decibel
+delivery traffic indication message
+delta
+demilitarized zone
+depth of discharge
+derating
+design load
+dielectric
+dielectric strength
+digital signal processing
+digital signal processor
+digital subscriber line
+dipole antenna
+direct current
+direct-sequence spread spectrum
+disconnector
+discrimination
+distortion#harmonic distortion
+distributed generation
+distribution transformer
+domain name system
+door
+drawing
+dynamic dns
+dynamic host configuration protocol
+eddy current
+elbow
+electric power research institute
+electrical safety testing
+electricity
+electromagnetic induction
+electromotive force
+ems
+emtp
+energy
+energy management system
+eprom
+ethernet over twisted pair
+ethylene
+eutectic system
+extrusion
+farad
+fat
+fault (power engineering)
+fixture
+flowerpot
+fluorescent lamp
+frequency
+full scale
+functional block diagram
+gel
+global positioning system
+gm t platform
+grease
+greenwich mean time
+ground
+ground and neutral
+halogen lamp
+harmonic
+helical
+hertz
+high voltage
+hooks
+horsepower
+hose
+hot stick
+hv
+hydrometer
+ied
+ieee 802.11b-1999
+ieee 802.11g-2003
+ieee 802.1x
+impedance
+impulse
+incandescent light bulb
+inductance
+inrush current
+institute of electrical and electronics engineers
+instrument transformer
+insulated-gate bipolar transistor
+insulator
+insulator (electricity)
+international organization for standardization
+internet protocol suite
+interruption
+intranet
+ion
+ip address
+ip address#static ip
+isotropic radiator
+jacket
+jamming
+joule
+kilowatt hour
+lag
+lamp
+lead
+lead dioxide
+lead(ii) sulfate
+lead–acid battery
+lead–acid battery#exploding batteries
+light
+light fixture
+light-emitting diode
+lightning
+limit switch
+line
+liquid-crystal display
+long-term stability
+luminance
+lux
+mac address
+magnetic core#core loss
+measurement
+megohmmeter
+messenger
+methane
+micro-
+mil
+modbus
+modem
+mv
+mw
+nec
+nickel–cadmium battery
+nylon
+ohm
+ohm&#39;s law
+parkway
+pc card
+pc_card
+personal area network
+pf
+phase angle
+photovoltaic system
+photovoltaics
+pilot plant
+plc
+point-to-point tunneling protocol
+polarity
+polyethylene
+polymer concrete
+polyvinyl chloride
+port forwarding
+pot
+potential
+pothead
+power
+power factor
+power inverter
+power-line communication
+ppp
+proxy server
+psi
+public_switched_telephone_network
+pull
+pv
+px
+ram
+recloser
+reel
+reference range
+reflector
+refracting telescope
+regulation
+regulator
+relative permittivity#terminology
+relay
+resistance
+revolutions per minute
+ripple
+rms
+root mean square
+sag
+sat (disambiguation)
+scada
+schematic
+series and parallel circuits
+service drop
+short circuit
+si
+silicon
+single-phase electric power
+skin effect
+sleeve
+soap
+solar cell
+solar energy
+solar panel
+split-phase electric power
+spread spectrum
+stability
+static relay
+static var compensator
+switchgear
+tagline
+tap changer
+temper
+tension
+thermal expansion
+thermoplastic
+thermosetting polymer
+thin film
+three-phase
+throughput
+transducer
+transformer
+transformer types
+transmission system
+trickle charging
+twisted pair
+ul
+ultimate tensile strength
+university of florida
+va
+vapor
+virtual private network
+virtual server
+volt
+voltage drop
+voltage regulation
+voltage sag
+vrla battery#agm (absorbed glass mat)
+vt
+watt
+watt#kilowatt
+wi-fi
+wire
+wireless lan
+xmodem
+yield (engineering)
+zero crossing

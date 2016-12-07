@@ -1,0 +1,807 @@
+breakthrough propulsion physics program
+do-178b
+reaction engines sabre
+tait–bryan rotations
+arp4761
+advanced space vision system
+digital datcom
+orbiter boom sensor system
+hyshot
+prandtl-glauert singularity
+do-254
+future air navigation system
+kutta–joukowski theorem
+graduate aptitude test in engineering
+wright glider of 1902
+rl-10 (rocket engine)
+plasticity (physics)|plasticity
+reprap project
+society of automotive engineers
+imperial college london
+bearing (mechanical)|bearing
+american machinists' handbook
+graduate aptitude test in engineering
+haptic technology|haptic
+two-legged walking
+chandra x-ray observatory
+explosive ordnance disposal robot
+rossum's universal robots
+insect robot
+robopsychological
+camp fallujah
+snap switch
+donor atoms
+electromagnetic communication
+rl differentiator
+turns ratio
+dropping resistor
+current feedback
+equivalent resistance
+collector characteristic curve
+thin film capacitor
+ripple frequency
+radio-frequency generator
+r-2r ladder
+roll-off rate
+dead short
+current-limiting resistor
+ferrite-core inductor
+series resonance
+crystal-controlled oscillator
+thick film resistor
+meter fsd current
+metal oxide field effect transistor
+distributed capacitance
+self biasing
+solid conductor
+reverse breakdown voltage
+mismatch
+barrier potential
+common-mode signals
+wideband amplifier
+insulating material
+mid-point bias
+rl integrator
+static reverse current
+kirchhoff&quot;s current law
+metal film resistor
+enhancement-mode mosfet
+normal closed
+induced voltage
+level detector
+voltage divider biasing
+electron flow
+magneto motive force
+bleeder current
+subassembly
+electromechanical transducer
+ic voltage regulator
+time-domain analysis
+radio-frequency amplifier
+thick-film capacitor
+neutral atom
+super heterodyne receiver
+carbon resistor
+magnetizing force
+free running multivibrator
+closed-loop gain
+antenna, receiving
+dc load line
+spdt
+radio-frequency probe
+output power
+frequency response curve
+branch current
+pentavalent element
+common cathode display
+silicon controlled switch
+class a amplifier
+metal oxide resistor
+distributed inductance
+speed-up capacitor
+open loop mode
+counter electromotive force
+slow acting relay
+class b amplifier
+ganged
+dual trace oscilloscope
+rl filter
+ac generator
+turn-on time
+thin film detector
+supply voltage
+acceptor atoms
+moving coil pick-up
+trivalent element
+intrinsic material
+inverting input
+multi segmant display
+npn transistor
+break over voltage
+gain bandwidth product
+stranded conductor
+tapered
+offset null
+maximum power transfer
+common-anode display
+monostable multivibrator
+turn-off time
+ac power supply
+rms value
+storage time
+non-inverting input
+ac/dc
+resistive power
+resistive temperature detector
+horizontally polarized wave
+single throw switch
+unity gain frequency
+vector diagram
+charge current
+residual magnetism
+series parallel network
+uncharged
+center tapped rectifier
+carbon-film resistor
+to package
+single pole double throw
+half wave rectifier
+slide switch
+intrinsic stand-off ratio
+electro acoustic transducer
+antenna, transmitting
+ac coupling
+insulation resistance
+mid-band gain
+video amplifier
+load current
+cascaded amplifier
+slow-blow fuse
+ac voltage
+class c amplifier
+meter resistance
+degenerative feedback
+ac load line
+shells or bands
+impedance coupling
+base biasing
+single pole single throw
+rc time constant
+temperature coefficient of frequency
+wattage rating
+thermal relay
+matched impedance
+magnetic leakage
+complementary transistors
+bulk resistance
+voltage rating
+push&gt;push-pull amplifier
+kirchhoff&quot;s voltage law
+vertical mos
+complementary symmetry amplifier
+surface-barrier diode
+spst
+toroidal coil
+dc power supply
+frequency-domain analysis
+left-hand-rule
+center tapped transformer
+constant current circuit
+negative ground
+voltage feedback
+switching transistor
+reverse current
+three phase supply
+emitter feedback
+intermediate frequency amplifier
+depletion-mode mosfet
+delay time
+inductive circuit
+knee voltage
+wire wound resistor
+surface leakage current
+multiplier resistor
+non-linear scale
+capacitor microphone
+ohms per volt
+transformer coupling
+auxiliary relay
+metal clad (switchgear)
+alj
+high intensity discharge (hid) lamp
+voltage transformer ratio
+distribution automation
+ground fault
+2s2w
+conversion coefficient
+compliance voltage
+bay-o-net
+unit protection
+check protection system
+earthing transformer
+mwh
+rto
+fiducial value
+initial lamp lumens (lighting)
+measuring range
+standard calibration
+compression splice
+dry charge (battery)
+capacity (battery)
+transducer with live zero
+neutral grounding resistor
+full scale output
+fuse melt time
+knee-point e.m.f.
+afci
+sulfation (battery)
+transformer voltage regulators
+s.i.r.
+service life (battery)
+effective range
+service entrance cable
+vacuum circuit breakers
+building wire
+lumens per watt (lpw)
+dependent time measuring relay
+time delay relay
+dielectric test
+charge-retention (battery)
+ferro resonance
+w.u.c.
+pocket current transformer
+scaling resistor
+residential (lighting)
+unbalanced loads
+voltage swells
+instantaneous relay
+vacuum interrupter
+interruption, sustained
+conductor loss
+shotgun stick
+acss/aw
+resealable cap (battery)
+characteristic impedance ratio (c.i.r.)
+photovoltaic conversion efficiency
+coefficient of utilization (cu)
+rated lamp life
+c2h6
+characteristic angle
+impulse test
+cable sheath
+dcf77
+h20-44
+circular-mil (cmil)
+dual voltage transformer
+bunched stranding
+acsr/tw
+light loss factor (llf)
+continuous rating
+international system of units (si)
+ps (lighting)
+astm
+high-speed reclosing
+major roadway (lighting)
+conjunctive test
+plug setting multiple
+biased relay
+vdew
+work plane
+power marketer
+high pot
+grip all stick
+generator step-up (gsu)
+foot-candle (fc)
+specific conjuctive test
+nfpa
+ill (lighting)
+relay - numerical
+earth fault protection system
+protection system
+cut off voltage
+distortion factor
+true rms amps
+ripple content of the output
+effective internal resistance (battery)
+hybrid photovoltaic system
+kyz
+aaac
+starting relay
+venting (battery)
+dsss
+semi-con
+arcing time
+acsr/aw
+metering (tariff)
+unidirectional unit
+internal impedance (battery)
+stability of a protection system
+discharge current
+apparent power (volt-amps)
+average maintained foot-candles (lighting)
+bikeway (lighting)
+cable pulling lubricant
+parametric conjuctive test
+intensity (lighting)
+k-bus (courier)
+iesna
+bushing well
+circuit insulation voltage
+autonomous photovoltaic system
+pedestrian loading
+induced voltage
+600 volt
+outage, scheduled
+neutral ground reactor
+non-cutoff (lighting)
+frequency transducer
+flash hazard
+overshoot time
+load break
+alley arm
+disturbed network protocol
+system impedance ratio
+cutoff (lighting)
+electrically safe work condition
+tow axis tracking (photovoltaic)
+luminaire dirt depreciation (ldd)
+local roadway (lighting)
+clf
+stability of transducer
+american wire gage (awg)
+surge withstand
+end-point voltage
+lighting arrester
+buried urban residential distribution
+medium voltage
+epdm
+cutoff, non (lighting)
+outage, forced
+a/d conversion
+plate (battery)
+internal resistance (battery)
+ladder diagram (ld)
+mortality curve
+aeic
+bulb envelope lighting)
+candlepower distribution curve
+multi-shot reclosing
+protection relay
+stage 3 emergency
+rhh-2
+charge (battery)
+regulating transformer
+current transformer ratio
+luminaire dirt depreciation factor (ldd)
+parking bushing
+main protection
+alley roadway (lighting)
+collector roadway (lighting)
+intermediate (lighting)
+n/o
+candela (cd)
+competition transition charge (ctc)
+constant current charge
+working on
+duct bank
+core balance current transformer
+ism band
+stability limits of a protection system
+phase angle transducer
+operating current (of a relay)
+maximum permissible values of the input current and voltage
+starved cell (battery)
+metal enclosed (switchgear)
+output common mode interface voltage
+sky wire
+cycle (battery)
+cutoff, full (lighting)
+effective power (watts)
+i.d.m.t.
+off peak power
+mva
+cu (lighting)
+vent cap (battery)
+dielectric withstand voltage test
+tree wire
+temperature rise
+nfpa 70e standard
+trickle charge (battery)
+tracking array (photovoltaic)
+dead front
+spark test
+cpuc
+electrolyte (battery)
+askeral
+charge rate (battery)
+pad mounted transformer
+float charge
+one-axis tracking (photovoltaic)
+tc57
+deep discharge (battery)
+battery tray
+rocof
+fuse link
+hazard risk category
+working near
+medium distribution (lighting)
+sub-transmission system
+state of charge (battery)
+light traffic
+voltage spread
+isolation link
+ridge pin
+limiting value of the output current
+stc
+continuous load
+transducer factor
+multi-crystalline (photovoltaic)
+discharge (battery)
+protection scheme
+amf (lighting)
+investor owned utility (iou)
+t&d
+clearing time
+20a
+20c
+20b
+thin film (photovoltaic)
+module (photovoltaic)
+de-ionization time
+balanced load
+rj-11
+anti-pumping device
+cell voltage (battery)
+hs285 (tm)
+guy strain insulator
+tfe
+lead acid (battery)
+self discharge (battery)
+ampere-hour meter
+motion resistant conductor
+rated output
+flash protection boundary
+rhh
+lateral circuit
+sidewalk (lighting)
+overcharge (battery)
+relays - distance
+aashto
+photovoltaic concentrator
+statcom
+dip tolerance (lighting)
+off-load tap changer
+voltage class
+multi-section transducer
+lpw
+arc thermal performance value
+domain host control protocol
+entrainment (battery)
+metal halide lamp (mh)
+icea
+automatic line sectionalizer
+cell (photovoltaic)
+semi-cutoff (lighting)
+dtim
+spacing-to-mounting height ratio
+operating value
+booster transformer
+mhr (lighting)
+cal-iso
+momentary rating
+float charge (battery)mti
+counting relay
+pilot channel
+output load
+sulfur-hexafluoride (sf6)
+iec
+hrc
+reinforced polymer motor
+combination unilay
+circuit voltage
+pole spacing (lighting)
+100baset
+open-circuit voltage (battery)
+output series mode interface voltage
+transducer with suppressed zero
+active material (battery)
+transformer bank
+2s1w
+lay length
+aac/tw
+notching relay
+all-or-nothing relay
+output span
+distribution voltage
+constant potential charge
+delta-wye
+vent valve (battery)
+open link
+line traps
+melt time
+flash suit
+hot arm
+mid point sectioning substation
+sintered plate (battery)
+operating current
+high pressure sodium (hps) lamp
+coil loss
+federal energy regulatory commission (ferc)
+omni directional antenna
+sealed cell (battery)
+nameplate rating
+bull wheel
+separator (battery)
+single element transducer
+discharge rate (battery)
+design test
+wapa
+compact stranding
+ultra high voltage (ufv)
+gto
+directional relay
+dielectric withstand
+heat run test
+lead dioxide (battery)
+class index
+lamp lumen depreciation, lld (lighting)
+rw (lighting)
+igbt
+interrupting medium
+restricted approach boundary
+nominal voltage
+distribution system
+effectively grounded
+phase rotation
+conductor shield
+field current
+spill light
+rated capacity (battery)
+fused cutout
+end-of-discharge voltage
+intrinsic error
+llf (lighting)
+residual current
+transducer error
+double arming bolt
+cell-reversal (battery)
+reversible output current
+armor rod
+three wire
+tubular plate (battery)
+dry-type transformers
+mcc
+protection equipment
+junction, 600 amp
+closing impulse time
+irig-b
+veiling luminance
+nominal capacity (battery)
+current limiting fuse
+riser pole
+opening time
+multi-element transducer
+osha 29 cfr 1910, subpart s-electrical
+conduit fill
+oil breakers
+ch2h2
+remote control point
+direct-on-line
+efficiency (lighting)
+end point voltage
+ampere-hour capacity (storage battery)
+on load tap changer
+circuit switchers
+da bolt
+hsr
+flame resistance
+device control point
+xhhw-2
+spring winding time
+transformer insulation
+specific-gravity (battery)
+over range
+universal bushing well
+c-rate
+osi 7-layer model
+nominal voltage (battery)
+photovoltaic efficiency
+non-halogen ethylene copolymers
+simplex communications system
+mccb
+non-load break
+lightning & switching impulses
+thw
+i2t
+interruption, momentary
+western underground committee
+ldc
+baker board
+input quantity
+dual voltage switch
+operating time characteristic
+stringing block
+occasional traffic
+switch, network
+eera
+intermediate class arrester
+substation configuration language
+voltage gradient
+cable cleaner
+switching impulses
+unit electrical relay
+limited approach boundary
+resetting value
+air blast breakers
+no load loss
+600v-ud
+lay direction
+fixed capacitor bank
+day ahead market
+power electronics device
+balanced polyphase system
+junction, 200 amp
+voltage transients
+mobile transformer
+hookstick
+high voltage system
+flooded cell
+line hose
+wire lubricant
+mean-sensing transducer
+electrical hazard
+20k
+crest value
+vdc
+eei
+basic impulse level (bil)
+fpi
+pull tension
+a-h
+opgw
+independent time measuring relay
+incident energy
+point of common communication
+vr cable
+static wire
+local control mode
+measuring element
+switching surges
+potential transformer
+shock hazard
+hard drawn
+valve regulated sealed cell (battery)
+thhn
+long distribution (lighting)
+transformer ratio
+voltage withstand test
+ict
+full duplex communications
+inverse time delay relay
+voltage rating
+cross-linked polyethylene (xlpe)
+interrupter switch
+de-energized
+sidewall pressure
+epr
+commercial (lighting)
+coffin hoist
+naics
+measuring relay
+cutoff angle (lighting)
+hs20-44
+cell (battery)
+california public utilities commission (cpuc)
+short distribution (lighting)
+xlp
+automatic recloser
+relays - over-current
+output current of a transducer
+ferc
+single-shot reclosing
+expressway roadway (lighting)
+parking stand
+relays - voltage
+stringing
+ratio correction
+ehv
+trxlp
+pasted plate (battery)
+pick up ratio
+concentric stranding
+protected zone
+protective device numbers, ansi
+voltage transducer
+effective setting
+fault close rating
+refererence conditions
+half-duplex communications
+metering (non-tariff)
+lighting maintenance factor (mf)
+plante plate (battery)
+california independent system operator (cal-iso)
+true rms volts
+n/c
+super draw lead
+over current relay
+incidental light traffic
+mtw
+mercury vapor lamp (mv)
+concentrator (photovoltaic)
+gel cleaner
+photovoltaic stand-alone system
+lateral light distribution
+draw-lead
+residual voltage
+stranded conductor
+cutoff, semi (lighting)
+sweeling (battery)
+starting current
+cpe
+underground residential distribution
+fuse arcing time
+twenty a
+stringing dolly
+exciting current
+through fault current
+bull line
+oxygen recombination
+acss/tw
+system disturbance time
+underground utility structure
+influence quantity
+vector group compensation
+sotf
+prohibited approach boundary
+storage conditions
+surge withstand capability (swc) test
+basic insulation level
+vcb
+thwn-2
+flash hazard analysis
+usma
+unrestricted protection
+interruption duration
+extension, box
+california power exchange (calpx)
+twenty c
+twenty b
+acsr
+wuc
+johnny ball
+recombination (battery)
+pedestrian walkway (lighting)
+reel tape
+disk or diskette
+kilobyte(k)
+screen editor
+modem setup
+communications program
+login id
+carriage return <cr>
+reuse and reuseability
+tape density
+read/write
+connect time
+lan e-mail system
+service (or service provider)
+login or logon
+communications line
+multimedia mail
+atm forum
+telecomputing
+account name
+time series.
+cursor control
+batch query
+client-server interface
+bitmapped terminal
+hierarchical file structure
+record length
+hierarchical file
+bulletin board (bbs)
+dictionary file
+logical record
+bits per second (bps)
+background processing
+rectangular file

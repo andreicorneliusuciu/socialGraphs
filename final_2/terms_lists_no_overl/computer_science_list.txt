@@ -1,0 +1,387 @@
+access
+access control list
+access time
+account
+address
+aggregate
+aggregate data
+algorithm
+alias
+analog
+application
+application layer
+application software
+application software
+archive
+argument
+ascii
+assembler
+atm
+audit
+authentication
+authorization
+autonomous system
+backbone
+backspace
+backup
+bandwidth
+baseband
+basic
+batch processing
+binary
+binary number
+bit
+bitnet
+block
+booting
+break
+bridge
+broadband
+broadcasting
+browser
+buffer
+bug
+bus network
+byte
+cable
+capital punishment
+cd-rom
+cell relay
+central processing unit
+channel
+character
+character encoding
+chip
+client
+client–server model
+clustered file system#distributed file systems
+cobol
+code
+collaborative software
+collision
+column
+command
+compiler
+computer
+computer data storage#primary storage
+concentrator
+conference
+configuration
+control character
+control key
+copy
+crash
+cursor
+cyberspace
+data
+data entry
+data link layer
+data processing
+data set
+data striping
+data transmission
+database
+database
+database
+debugging
+default
+delete key
+dial-up internet access
+digital
+direct access
+directory
+display
+distributed computing#applications
+distributed database
+distribution
+document
+documentation
+dos (disambiguation)
+dot matrix printing
+down
+download
+downtime
+drag and drop
+drive
+dump
+dynamic host configuration protocol
+edit
+editing
+email
+email
+email address
+emphasis (typography)#methods and use
+employment
+encapsulation
+enter key
+enter key
+environment
+erase
+error detection and correction
+error message
+ethernet
+faq
+field
+file
+file format
+file server
+file transfer protocol
+folder
+font
+foreground
+form
+format
+fortran
+fragment
+frame
+freeware
+frequency
+fud
+function key
+gateway
+gif
+gopher
+graphics
+gui
+handshaking
+hang
+hard copy
+hard copy
+hard disk drive
+hardware
+hardwire
+header
+help
+host
+host (network)
+html
+hub
+hyperlink
+hypermedia
+hypertext
+hypertext transfer protocol
+ibm_3270#telnet_3270
+icon
+index
+information hiding
+information server
+information superhighway
+inheritance
+input
+instantiation
+instantiation
+institute of electrical and electronics engineers
+instruction
+integrated services digital network
+interactivity
+international organization for standardization
+internet
+internet protocol suite
+internet relay chat
+interrupt
+ip
+ip address
+job
+jpeg
+justify
+kermit
+key
+keyboard
+lan (disambiguation)
+laser printing
+laserdisc
+layer
+line
+line editor
+line printer
+line printer daemon protocol
+line wrap and word wrap
+link
+listserv
+load
+login
+longitudinal study
+lynx
+machine code
+macro
+magnetic storage
+magnetic tape
+mail
+mailbox
+mailer
+mainframe computer
+mb
+medium
+memory
+menu
+message
+message transfer agent
+message transfer agent
+method
+methodology
+microcomputer
+microcomputer
+microprocessor
+microsoft windows
+microwave
+minicomputer
+mission
+modem
+modularity
+monitor
+mosaic
+mouse
+multi-user
+multimedia
+multiplexer
+municipal solid waste
+nesting
+netscape
+network
+network layer
+nickname
+node
+noise
+object
+object code
+object-based_language
+object-oriented programming
+object-oriented programming
+ole
+online and offline
+online and offline
+online service provider
+open
+open platform
+open system
+openwindows
+operating system
+optical fiber
+osi
+output
+packet
+page break#form feed
+parameter
+parity
+password
+pc
+peripheral
+physical layer
+ping
+pixel
+platform
+plotter
+polymorphism
+port
+portable
+post
+postscript
+powerpc
+presentation layer
+printer
+procedure
+process
+program
+programmer
+programming
+programming tool
+prompt
+protocol
+public domain
+quality
+query
+queue
+quit
+raid
+ram
+random access
+read
+real-time
+record
+record type
+recovery
+reengineering
+relational database
+remote
+remote access
+resource
+response
+retiming
+reverse engineering
+rom
+root directory
+router
+routine
+routing
+run
+scanner
+schedule
+screen
+scroll
+segment
+sequence
+server
+session
+session layer
+shareware
+shell
+simulation
+smiley
+soft copy
+software
+sort
+source code
+sparc
+sparcstation
+sponge
+spool
+spreadsheet
+sql
+storage
+strategy
+string
+structure (mathematical logic)
+sun microsystems
+sunos
+surfing
+task
+team
+telecommunication
+telnet
+terabyte
+terminal
+terminal emulator
+terminal server
+text
+time out
+toggle
+token ring
+topic
+transfer
+transport layer
+tree
+uniform resource locator
+unix
+upload
+usability
+usenet
+user
+user (computing)
+user identifier
+utility
+variable
+virtual
+virtual terminal
+virus
+vision
+vms
+volume
+wavelength
+whois
+window
+word processor
+workstation
+world wide web
+writing
+x terminal
+x window system

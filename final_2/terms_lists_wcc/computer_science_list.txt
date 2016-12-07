@@ -1,0 +1,259 @@
+access control list
+access time
+address
+algorithm
+application
+application layer
+application software
+archive
+argument
+ascii
+audit
+authentication
+authorization
+backspace
+backup
+bandwidth
+baseband
+basic
+batch processing
+binary
+binary number
+bit
+bitnet
+booting
+bridge
+broadband
+broadcasting
+buffer
+bus network
+byte
+cable
+capital punishment
+cd-rom
+central processing unit
+character encoding
+chip
+client–server model
+clustered file system#distributed file systems
+cobol
+code
+collaborative software
+collision
+column
+compiler
+computer
+computer data storage#primary storage
+concentrator
+control character
+control key
+copy
+crash
+cyberspace
+data
+data link layer
+data processing
+data set
+data striping
+data transmission
+database
+debugging
+delete key
+dial-up internet access
+display
+distributed computing#applications
+distributed database
+distribution
+document
+documentation
+dot matrix printing
+download
+downtime
+drag and drop
+drive
+dynamic host configuration protocol
+email
+email address
+emphasis (typography)#methods and use
+employment
+enter key
+environment
+error detection and correction
+error message
+ethernet
+faq
+field
+file
+file format
+file server
+file transfer protocol
+font
+format
+fortran
+frame
+freeware
+frequency
+function key
+gif
+graphics
+gui
+handshaking
+hard copy
+hard disk drive
+hardware
+host
+host (network)
+html
+hyperlink
+hypermedia
+hypertext
+hypertext transfer protocol
+ibm_3270#telnet_3270
+icon
+information hiding
+information superhighway
+institute of electrical and electronics engineers
+integrated services digital network
+interactivity
+international organization for standardization
+internet
+internet protocol suite
+internet relay chat
+interrupt
+ip
+ip address
+job
+jpeg
+laser printing
+laserdisc
+layer
+line
+line editor
+line printer
+line printer daemon protocol
+line wrap and word wrap
+link
+listserv
+login
+machine code
+magnetic storage
+magnetic tape
+mail
+mainframe computer
+memory
+message
+message transfer agent
+method
+methodology
+microcomputer
+microprocessor
+microsoft windows
+microwave
+minicomputer
+modem
+modularity
+mosaic
+mouse
+multi-user
+multimedia
+multiplexer
+municipal solid waste
+netscape
+network
+network layer
+nickname
+node
+noise
+object
+object code
+object-oriented programming
+online and offline
+online service provider
+openwindows
+operating system
+optical fiber
+output
+page break#form feed
+parameter
+password
+peripheral
+physical layer
+pixel
+plotter
+post
+postscript
+powerpc
+presentation layer
+programmer
+programming tool
+prompt
+public domain
+quality
+queue
+raid
+ram
+random access
+record
+reengineering
+relational database
+remote access
+resource
+reverse engineering
+root directory
+routine
+routing
+scanner
+schedule
+screen
+sequence
+session layer
+shareware
+simulation
+smiley
+soft copy
+software
+source code
+sparc
+sparcstation
+sponge
+spool
+spreadsheet
+sql
+strategy
+string
+structure (mathematical logic)
+sun microsystems
+sunos
+team
+telecommunication
+telnet
+terabyte
+terminal
+terminal emulator
+terminal server
+text
+token ring
+transfer
+transport layer
+tree
+uniform resource locator
+unix
+upload
+usability
+usenet
+user
+user (computing)
+user identifier
+utility
+virtual terminal
+virus
+volume
+wavelength
+whois
+window
+word processor
+workstation
+world wide web
+writing
+x terminal
+x window system
